@@ -1,0 +1,14 @@
+.sprite { background-image: url('screen_fx_1.png');}
+
+
+.sprite-cuphead-screen-fx-0000 { width: 1024px; height: 532px; background-position: 0px 0px;}
+.sprite-cuphead-screen-fx-0001 { width: 1024px; height: 532px; background-position: 0px -532px;}
+.sprite-cuphead-screen-fx-0002 { width: 1024px; height: 532px; background-position: 0px -1064px;}
+.sprite-cuphead-screen-fx-0003 { width: 1024px; height: 532px; background-position: 0px -1596px;}
+.sprite-cuphead-screen-fx-0004 { width: 1024px; height: 532px; background-position: 0px -2128px;}
+.sprite-cuphead-screen-fx-0005 { width: 1024px; height: 532px; background-position: 0px -2660px;}
+.sprite-cuphead-screen-fx-0006 { width: 1024px; height: 532px; background-position: 0px -3192px;}
+.sprite-cuphead-screen-fx-0007 { width: 1024px; height: 532px; background-position: 0px -3724px;}
+.sprite-cuphead-screen-fx-0008 { width: 1024px; height: 532px; background-position: 0px -4256px;}
+.sprite-cuphead-screen-fx-0009 { width: 1024px; height: 532px; background-position: 0px -4788px;}
+.sprite-cuphead-screen-fx-0010 { width: 1024px; height: 532px; background-position: 0px -5320px;}
