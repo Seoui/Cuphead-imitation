@@ -6,6 +6,7 @@ DirectX 게임 포트폴리오입니다.
 Cuphead의 Cagney Carnation 씬을 모작하였습니다  
 
 
+
 게임실행을 위해 몇가지 작업이 필요합니다  
 
 1. DirectX SDK 설치
