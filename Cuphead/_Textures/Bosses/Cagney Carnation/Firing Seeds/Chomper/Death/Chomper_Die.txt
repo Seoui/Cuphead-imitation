@@ -1,0 +1,18 @@
+.sprite { background-image: url('Chomper_Die.png');}
+
+
+.sprite-Chomper-Die-01 { width: 73px; height: 85px; background-position: 0px 0px;}
+.sprite-Chomper-Die-02 { width: 66px; height: 82px; background-position: 0px -85px;}
+.sprite-Chomper-Die-03 { width: 119px; height: 117px; background-position: 0px -167px;}
+.sprite-Chomper-Die-04 { width: 220px; height: 197px; background-position: 0px -284px;}
+.sprite-Chomper-Die-05 { width: 217px; height: 200px; background-position: 0px -481px;}
+.sprite-Chomper-Die-06 { width: 172px; height: 196px; background-position: 0px -681px;}
+.sprite-Chomper-Die-07 { width: 190px; height: 198px; background-position: 0px -877px;}
+.sprite-Chomper-Die-08 { width: 215px; height: 226px; background-position: 0px -1075px;}
+.sprite-Chomper-Die-09 { width: 226px; height: 236px; background-position: 0px -1301px;}
+.sprite-Chomper-Die-10 { width: 243px; height: 258px; background-position: 0px -1537px;}
+.sprite-Chomper-Die-11 { width: 253px; height: 261px; background-position: 0px -1795px;}
+.sprite-Chomper-Die-12 { width: 272px; height: 273px; background-position: 0px -2056px;}
+.sprite-Chomper-Die-13 { width: 272px; height: 273px; background-position: 0px -2329px;}
+.sprite-Chomper-Die-14 { width: 278px; height: 282px; background-position: 0px -2602px;}
+.sprite-Chomper-Die-15 { width: 281px; height: 280px; background-position: 0px -2884px;}

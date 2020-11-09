@@ -1,0 +1,22 @@
+.sprite { background-image: url('Cagney_faceattack_high.png');}
+
+
+.sprite-FA-High-01 { width: 340px; height: 626px; background-position: 0px 0px;}
+.sprite-FA-High-02 { width: 368px; height: 587px; background-position: 0px -626px;}
+.sprite-FA-High-03 { width: 380px; height: 561px; background-position: 0px -1213px;}
+.sprite-FA-High-04 { width: 394px; height: 551px; background-position: 0px -1774px;}
+.sprite-FA-High-05 { width: 396px; height: 539px; background-position: 0px -2325px;}
+.sprite-FA-High-06 { width: 394px; height: 534px; background-position: 0px -2864px;}
+.sprite-FA-High-07 { width: 316px; height: 564px; background-position: 0px -3398px;}
+.sprite-FA-High-08 { width: 451px; height: 590px; background-position: 0px -3962px;}
+.sprite-FA-High-09 { width: 550px; height: 664px; background-position: 0px -4552px;}
+.sprite-FA-High-10 { width: 677px; height: 660px; background-position: 0px -5216px;}
+.sprite-FA-High-11 { width: 1135px; height: 640px; background-position: 0px -5876px;}
+.sprite-FA-High-12 { width: 1141px; height: 656px; background-position: 0px -6516px;}
+.sprite-FA-High-13 { width: 1150px; height: 625px; background-position: 0px -7172px;}
+.sprite-FA-High-14 { width: 1149px; height: 657px; background-position: 0px -7797px;}
+.sprite-FA-High-15 { width: 1041px; height: 658px; background-position: 0px -8454px;}
+.sprite-FA-High-16 { width: 989px; height: 642px; background-position: 0px -9112px;}
+.sprite-FA-High-17 { width: 458px; height: 665px; background-position: 0px -9754px;}
+.sprite-FA-High-18 { width: 347px; height: 647px; background-position: 0px -10419px;}
+.sprite-FA-High-19 { width: 325px; height: 643px; background-position: 0px -11066px;}

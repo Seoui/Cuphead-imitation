@@ -1,0 +1,23 @@
+.sprite { background-image url('Vine.png');}
+
+
+.sprite-Vine-C-01 { width 58px; height 30px; background-position 0px 0px;}
+.sprite-Vine-C-02 { width 62px; height 41px; background-position 0px -30px;}
+.sprite-Vine-C-03 { width 44px; height 111px; background-position 0px -71px;}
+.sprite-Vine-C-04 { width 54px; height 178px; background-position 0px -182px;}
+.sprite-Vine-C-05 { width 50px; height 221px; background-position 0px -360px;}
+.sprite-Vine-C-06 { width 70px; height 257px; background-position 0px -581px;}
+.sprite-Vine-C-07 { width 70px; height 260px; background-position 0px -838px;}
+.sprite-Vine-C-08 { width 78px; height 289px; background-position 0px -1098px;}
+.sprite-Vine-C-09 { width 81px; height 326px; background-position 0px -1387px;}
+.sprite-Vine-C-10 { width 76px; height 347px; background-position 0px -1713px;}
+.sprite-Vine-C-11 { width 76px; height 370px; background-position 0px -2060px;}
+.sprite-Vine-C-12 { width 90px; height 386px; background-position 0px -2430px;}
+.sprite-Vine-C-13 { width 91px; height 391px; background-position 0px -2816px;}
+.sprite-Vine-C-14 { width 98px; height 392px; background-position 0px -3207px;}
+.sprite-Vine-C-15 { width 103px; height 392px; background-position 0px -3599px;}
+.sprite-Vine-C-16 { width 106px; height 392px; background-position 0px -3991px;}
+.sprite-Vine-C-17 { width 104px; height 389px; background-position 0px -4383px;}
+.sprite-Vine-C-18 { width 112px; height 389px; background-position 0px -4772px;}
+.sprite-Vine-C-19 { width 117px; height 386px; background-position 0px -5161px;}
+.sprite-Vine-C-20 { width 115px; height 387px; background-position 0px -5547px;}

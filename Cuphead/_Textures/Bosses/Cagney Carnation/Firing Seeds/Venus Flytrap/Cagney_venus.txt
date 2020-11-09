@@ -1,0 +1,15 @@
+.sprite { background-image: url('Cagney_venus.png');}
+
+
+.sprite-Venus-01 { width: 36px; height: 29px; background-position: 0px 0px;}
+.sprite-Venus-02 { width: 41px; height: 39px; background-position: 0px -29px;}
+.sprite-Venus-03 { width: 45px; height: 41px; background-position: 0px -68px;}
+.sprite-Venus-04 { width: 52px; height: 49px; background-position: 0px -109px;}
+.sprite-Venus-05 { width: 54px; height: 51px; background-position: 0px -158px;}
+.sprite-Venus-06 { width: 56px; height: 58px; background-position: 0px -209px;}
+.sprite-Venus-07-A { width: 60px; height: 64px; background-position: 0px -267px;}
+.sprite-Venus-08-A { width: 66px; height: 63px; background-position: 0px -331px;}
+.sprite-Venus-09-A { width: 81px; height: 66px; background-position: 0px -394px;}
+.sprite-Venus-10-A { width: 115px; height: 53px; background-position: 0px -460px;}
+.sprite-Venus-11-A { width: 81px; height: 58px; background-position: 0px -513px;}
+.sprite-Venus-12 { width: 74px; height: 62px; background-position: 0px -571px;}

@@ -1,0 +1,18 @@
+.sprite { background-image: url('Cagney_seed_missile.png');}
+
+
+.sprite-Missile-B-01 { width: 89px; height: 98px; background-position: 0px 0px;}
+.sprite-Missile-B-02 { width: 120px; height: 134px; background-position: 0px -98px;}
+.sprite-Missile-B-03 { width: 102px; height: 114px; background-position: 0px -232px;}
+.sprite-Missile-B-04 { width: 114px; height: 157px; background-position: 0px -346px;}
+.sprite-Missile-B-05 { width: 35px; height: 106px; background-position: 0px -503px;}
+.sprite-Missile-B-06 { width: 22px; height: 147px; background-position: 0px -609px;}
+.sprite-Missile-P-01 { width: 114px; height: 110px; background-position: 0px -756px;}
+.sprite-Missile-P-02 { width: 111px; height: 156px; background-position: 0px -866px;}
+.sprite-Missile-P-03 { width: 111px; height: 95px; background-position: 0px -1022px;}
+.sprite-Missile-P-04 { width: 112px; height: 141px; background-position: 0px -1117px;}
+.sprite-Missile-P-05 { width: 41px; height: 108px; background-position: 0px -1258px;}
+.sprite-Missile-P-06 { width: 19px; height: 105px; background-position: 0px -1366px;}
+.sprite-Missile-FX-01 { width: 87px; height: 38px; background-position: 0px -1471px;}
+.sprite-Missile-FX-02 { width: 64px; height: 27px; background-position: 0px -1509px;}
+.sprite-Missile-FX-03 { width: 19px; height: 17px; background-position: 0px -1536px;}

@@ -1,0 +1,13 @@
+.sprite { background-image: url('Venus_Die.png');}
+
+
+.sprite-Venus-Die-01 { width: 69px; height: 67px; background-position: 0px 0px;}
+.sprite-Venus-Die-02 { width: 79px; height: 80px; background-position: 0px -67px;}
+.sprite-Venus-Die-03 { width: 124px; height: 143px; background-position: 0px -147px;}
+.sprite-Venus-Die-04 { width: 206px; height: 232px; background-position: 0px -290px;}
+.sprite-Venus-Die-05 { width: 218px; height: 267px; background-position: 0px -522px;}
+.sprite-Venus-Die-06 { width: 249px; height: 289px; background-position: 0px -789px;}
+.sprite-Venus-Die-07 { width: 276px; height: 298px; background-position: 0px -1078px;}
+.sprite-Venus-Die-08 { width: 271px; height: 255px; background-position: 0px -1376px;}
+.sprite-Venus-Die-09 { width: 292px; height: 268px; background-position: 0px -1631px;}
+.sprite-Venus-Die-10 { width: 233px; height: 282px; background-position: 0px -1899px;}

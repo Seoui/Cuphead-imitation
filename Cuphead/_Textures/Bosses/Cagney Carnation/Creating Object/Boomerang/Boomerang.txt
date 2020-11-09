@@ -1,0 +1,14 @@
+.sprite { background-image: url('Boomerang.png');}
+
+
+.sprite-Boomerang-01 { width: 166px; height: 121px; background-position: 0px 0px;}
+.sprite-Boomerang-02 { width: 211px; height: 108px; background-position: 0px -121px;}
+.sprite-Boomerang-03 { width: 157px; height: 113px; background-position: 0px -229px;}
+.sprite-Boomerang-04 { width: 169px; height: 89px; background-position: 0px -342px;}
+.sprite-Boomerang-05 { width: 125px; height: 93px; background-position: 0px -431px;}
+.sprite-Boomerang-06 { width: 197px; height: 90px; background-position: 0px -524px;}
+.sprite-Boomerang-07 { width: 156px; height: 97px; background-position: 0px -614px;}
+.sprite-Boomerang-08 { width: 176px; height: 118px; background-position: 0px -711px;}
+.sprite-Boomerang-Shd-01 { width: 115px; height: 22px; background-position: 0px -829px;}
+.sprite-Boomerang-Shd-02 { width: 123px; height: 21px; background-position: 0px -851px;}
+.sprite-Boomerang-Shd-03 { width: 111px; height: 17px; background-position: 0px -872px;}

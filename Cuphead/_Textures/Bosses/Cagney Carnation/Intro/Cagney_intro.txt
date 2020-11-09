@@ -1,0 +1,23 @@
+.sprite { background-image: url('Carnation_Intro.png');}
+
+
+.sprite-Intro-01 { width: 292px; height: 546px; background-position: 0px 0px;}
+.sprite-Intro-02 { width: 291px; height: 548px; background-position: 0px -546px;}
+.sprite-Intro-03 { width: 294px; height: 546px; background-position: 0px -1094px;}
+.sprite-Intro-04 { width: 294px; height: 537px; background-position: 0px -1640px;}
+.sprite-Intro-05 { width: 298px; height: 513px; background-position: 0px -2177px;}
+.sprite-Intro-06 { width: 313px; height: 496px; background-position: 0px -2690px;}
+.sprite-Intro-07 { width: 372px; height: 525px; background-position: 0px -3186px;}
+.sprite-Intro-08 { width: 404px; height: 552px; background-position: 0px -3711px;}
+.sprite-Intro-09 { width: 519px; height: 626px; background-position: 0px -4263px;}
+.sprite-Intro-10 { width: 753px; height: 678px; background-position: 0px -4889px;}
+.sprite-Intro-11 { width: 815px; height: 721px; background-position: 0px -5567px;}
+.sprite-Intro-12 { width: 812px; height: 711px; background-position: 0px -6288px;}
+.sprite-Intro-13 { width: 781px; height: 711px; background-position: 0px -6999px;}
+.sprite-Intro-14 { width: 761px; height: 715px; background-position: 0px -7710px;}
+.sprite-Intro-15 { width: 718px; height: 681px; background-position: 0px -8425px;}
+.sprite-Intro-16 { width: 793px; height: 611px; background-position: 0px -9106px;}
+.sprite-Intro-17 { width: 598px; height: 587px; background-position: 0px -9717px;}
+.sprite-Intro-18 { width: 579px; height: 586px; background-position: 0px -10304px;}
+.sprite-Intro-19 { width: 551px; height: 612px; background-position: 0px -10890px;}
+.sprite-Intro-20 { width: 533px; height: 613px; background-position: 0px -11502px;}

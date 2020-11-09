@@ -1,0 +1,20 @@
+.sprite { background-image: url('MF_Vine.png');}
+
+
+.sprite-MF-Vine-B-01 { width: 49px; height: 76px; background-position: 0px 0px;}
+.sprite-MF-Vine-B-02 { width: 49px; height: 99px; background-position: 0px -76px;}
+.sprite-MF-Vine-B-03 { width: 58px; height: 126px; background-position: 0px -175px;}
+.sprite-MF-Vine-B-04 { width: 58px; height: 162px; background-position: 0px -301px;}
+.sprite-MF-Vine-B-05 { width: 51px; height: 196px; background-position: 0px -463px;}
+.sprite-MF-Vine-B-06 { width: 57px; height: 245px; background-position: 0px -659px;}
+.sprite-MF-Vine-B-07 { width: 61px; height: 285px; background-position: 0px -904px;}
+.sprite-MF-Vine-B-08 { width: 61px; height: 303px; background-position: 0px -1189px;}
+.sprite-MF-Vine-B-09 { width: 60px; height: 318px; background-position: 0px -1492px;}
+.sprite-MF-Vine-B-10 { width: 60px; height: 328px; background-position: 0px -1810px;}
+.sprite-MF-Vine-B-11 { width: 72px; height: 332px; background-position: 0px -2138px;}
+.sprite-MF-Vine-B-12 { width: 72px; height: 328px; background-position: 0px -2470px;}
+.sprite-MF-Vine-B-13 { width: 69px; height: 326px; background-position: 0px -2798px;}
+.sprite-MF-Vine-B-14 { width: 70px; height: 322px; background-position: 0px -3124px;}
+.sprite-MF-Vine-B-15 { width: 78px; height: 322px; background-position: 0px -3446px;}
+.sprite-MF-Vine-B-16 { width: 84px; height: 321px; background-position: 0px -3768px;}
+.sprite-MF-Vine-B-17 { width: 83px; height: 324px; background-position: 0px -4089px;}

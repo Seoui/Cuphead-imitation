@@ -1,0 +1,12 @@
+.sprite { background-image: url('Chomper.png');}
+
+
+.sprite-Chomper-01 { width: 72px; height: 67px; background-position: 0px 0px;}
+.sprite-Chomper-02 { width: 46px; height: 124px; background-position: 0px -67px;}
+.sprite-Chomper-03 { width: 45px; height: 103px; background-position: 0px -191px;}
+.sprite-Chomper-04 { width: 51px; height: 102px; background-position: 0px -294px;}
+.sprite-Chomper-05 { width: 58px; height: 98px; background-position: 0px -396px;}
+.sprite-Chomper-06 { width: 57px; height: 82px; background-position: 0px -494px;}
+.sprite-Chomper-07 { width: 73px; height: 58px; background-position: 0px -576px;}
+.sprite-Chomper-08 { width: 69px; height: 64px; background-position: 0px -634px;}
+.sprite-Chomper-09 { width: 61px; height: 65px; background-position: 0px -698px;}

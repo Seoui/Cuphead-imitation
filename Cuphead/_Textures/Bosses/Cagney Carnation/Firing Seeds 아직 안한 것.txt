@@ -1,0 +1,10 @@
+1. Firing Seeds->groundBurst
+3. Firing Seeds->Vines
+13. Firing Seeds->Venus Flytrap->Venus_flytrap_attack
+**4. Firing Seeds->Chomper-> Miscellaneous**
+**5. Firing Seeds->Chomper-> Seed** // B 안했다고
+**6. Firing Seeds->MiniFlower->Miscellaneous**
+**7. Firing Seeds->MiniFlower->Petals**
+**10. Firing Seeds->Venus Flytrap->Leaf**
+**11. Firing Seeds->Venus Flytrap->Miscellaneous**
+**12. Firing Seeds->Venus Flytrap->Seed** // B 안했다고

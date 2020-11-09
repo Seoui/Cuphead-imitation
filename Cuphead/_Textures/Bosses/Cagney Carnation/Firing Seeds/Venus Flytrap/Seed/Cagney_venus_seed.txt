@@ -1,0 +1,31 @@
+.sprite { background-image: url('Cagney_venus_seed.png');}
+
+
+.sprite-Seed-Fall-A-01 { width: 43px; height: 55px; background-position: 0px 0px;}
+.sprite-Seed-Fall-A-02 { width: 42px; height: 56px; background-position: 0px -55px;}
+.sprite-Seed-Fall-A-03 { width: 43px; height: 56px; background-position: 0px -111px;}
+.sprite-Seed-Fall-A-04 { width: 43px; height: 57px; background-position: 0px -167px;}
+.sprite-Seed-Fall-A-05 { width: 44px; height: 58px; background-position: 0px -224px;}
+.sprite-Seed-Fall-A-06 { width: 44px; height: 58px; background-position: 0px -282px;}
+.sprite-Seed-Fall-A-07 { width: 43px; height: 58px; background-position: 0px -340px;}
+.sprite-Seed-Fall-A-08 { width: 44px; height: 59px; background-position: 0px -398px;}
+.sprite-Seed-Fall-A-09 { width: 43px; height: 59px; background-position: 0px -457px;}
+.sprite-Seed-Fall-A-10 { width: 43px; height: 59px; background-position: 0px -516px;}
+.sprite-Seed-Fall-A-11 { width: 43px; height: 58px; background-position: 0px -575px;}
+.sprite-Seed-Fall-A-12 { width: 40px; height: 55px; background-position: 0px -633px;}
+.sprite-Seed-Fall-A-13 { width: 40px; height: 54px; background-position: 0px -688px;}
+.sprite-Seed-Fall-A-14 { width: 40px; height: 53px; background-position: 0px -742px;}
+.sprite-Seed-Fall-A-15 { width: 40px; height: 52px; background-position: 0px -795px;}
+.sprite-Seed-Fall-A-16 { width: 42px; height: 54px; background-position: 0px -847px;}
+.sprite-Seed-Fall-A-17 { width: 40px; height: 55px; background-position: 0px -901px;}
+.sprite-Seed-Fall-A-18 { width: 41px; height: 55px; background-position: 0px -956px;}
+.sprite-Seed-Grow-01 { width: 49px; height: 61px; background-position: 0px -1011px;}
+.sprite-Seed-Grow-02 { width: 52px; height: 56px; background-position: 0px -1072px;}
+.sprite-Seed-Grow-03 { width: 52px; height: 52px; background-position: 0px -1128px;}
+.sprite-Seed-Grow-04 { width: 48px; height: 49px; background-position: 0px -1180px;}
+.sprite-Seed-Grow-05 { width: 50px; height: 44px; background-position: 0px -1229px;}
+.sprite-Seed-Grow-06 { width: 56px; height: 37px; background-position: 0px -1273px;}
+.sprite-Seed-Grow-07 { width: 60px; height: 31px; background-position: 0px -1310px;}
+.sprite-Seed-Grow-08 { width: 63px; height: 24px; background-position: 0px -1341px;}
+.sprite-Seed-Grow-09 { width: 13px; height: 9px; background-position: 0px -1365px;}
+.sprite-Seed-Grow-10 { width: 12px; height: 7px; background-position: 0px -1374px;}

@@ -1,0 +1,17 @@
+.sprite { background-image: url('Cagney_final_intro_01.png');}
+
+
+.sprite-Final-Intro-01 { width: 378px; height: 606px; background-position: 0px 0px;}
+.sprite-Final-Intro-02 { width: 440px; height: 602px; background-position: 0px -606px;}
+.sprite-Final-Intro-03 { width: 393px; height: 600px; background-position: 0px -1208px;}
+.sprite-Final-Intro-04 { width: 424px; height: 599px; background-position: 0px -1808px;}
+.sprite-Final-Intro-05 { width: 442px; height: 623px; background-position: 0px -2407px;}
+.sprite-Final-Intro-06 { width: 510px; height: 611px; background-position: 0px -3030px;}
+.sprite-Final-Intro-07 { width: 535px; height: 607px; background-position: 0px -3641px;}
+.sprite-Final-Intro-08 { width: 511px; height: 605px; background-position: 0px -4248px;}
+.sprite-Final-Intro-09 { width: 663px; height: 606px; background-position: 0px -4853px;}
+.sprite-Final-Intro-10 { width: 661px; height: 593px; background-position: 0px -5459px;}
+.sprite-Final-Intro-11 { width: 603px; height: 576px; background-position: 0px -6052px;}
+.sprite-Final-Intro-12 { width: 564px; height: 571px; background-position: 0px -6628px;}
+.sprite-Final-Intro-13 { width: 534px; height: 605px; background-position: 0px -7199px;}
+.sprite-Final-Intro-14 { width: 517px; height: 612px; background-position: 0px -7804px;}

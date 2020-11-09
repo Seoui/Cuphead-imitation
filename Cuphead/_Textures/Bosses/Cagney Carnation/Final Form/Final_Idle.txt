@@ -1,0 +1,22 @@
+.sprite { background-image: url('Final_Idle.png');}
+
+
+.sprite-Final-Idle-01 { width: 434px; height: 660px; background-position: 0px 0px;}
+.sprite-Final-Idle-02 { width: 445px; height: 654px; background-position: 0px -660px;}
+.sprite-Final-Idle-03 { width: 449px; height: 647px; background-position: 0px -1314px;}
+.sprite-Final-Idle-04 { width: 457px; height: 643px; background-position: 0px -1961px;}
+.sprite-Final-Idle-05 { width: 459px; height: 642px; background-position: 0px -2604px;}
+.sprite-Final-Idle-06 { width: 461px; height: 642px; background-position: 0px -3246px;}
+.sprite-Final-Idle-07 { width: 462px; height: 641px; background-position: 0px -3888px;}
+.sprite-Final-Idle-08 { width: 462px; height: 659px; background-position: 0px -4529px;}
+.sprite-Final-Idle-09 { width: 463px; height: 676px; background-position: 0px -5188px;}
+.sprite-Final-Idle-10 { width: 463px; height: 695px; background-position: 0px -5864px;}
+.sprite-Final-Idle-11 { width: 491px; height: 706px; background-position: 0px -6559px;}
+.sprite-Final-Idle-12 { width: 509px; height: 706px; background-position: 0px -7265px;}
+.sprite-Final-Idle-13 { width: 514px; height: 704px; background-position: 0px -7971px;}
+.sprite-Final-Idle-14 { width: 509px; height: 694px; background-position: 0px -8675px;}
+.sprite-Final-Idle-15 { width: 497px; height: 680px; background-position: 0px -9369px;}
+.sprite-Final-Idle-16 { width: 474px; height: 681px; background-position: 0px -10049px;}
+.sprite-Final-Idle-17 { width: 467px; height: 675px; background-position: 0px -10730px;}
+.sprite-Final-Idle-18a { width: 459px; height: 663px; background-position: 0px -11405px;}
+.sprite-Final-Idle-18b { width: 459px; height: 663px; background-position: 0px -12068px;}

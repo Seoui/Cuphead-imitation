@@ -1,0 +1,10 @@
+.sprite { background-image: url('Flower_vine_groundburst.png');}
+
+
+.sprite-flower-vine-groundburst-0001 { width: 163px; height: 422px; background-position: 0px 0px;}
+.sprite-flower-vine-groundburst-0002 { width: 163px; height: 422px; background-position: 0px -422px;}
+.sprite-flower-vine-groundburst-0003 { width: 163px; height: 422px; background-position: 0px -844px;}
+.sprite-flower-vine-groundburst-0004 { width: 163px; height: 422px; background-position: 0px -1266px;}
+.sprite-flower-vine-groundburst-0005 { width: 163px; height: 422px; background-position: 0px -1688px;}
+.sprite-flower-vine-groundburst-0006 { width: 163px; height: 422px; background-position: 0px -2110px;}
+.sprite-flower-vine-groundburst-0007 { width: 163px; height: 422px; background-position: 0px -2532px;}

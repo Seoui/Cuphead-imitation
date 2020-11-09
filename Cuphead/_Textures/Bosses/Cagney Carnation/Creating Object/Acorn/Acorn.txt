@@ -1,0 +1,15 @@
+.sprite { background-image: url('Acorn.png');}
+
+
+.sprite-Acorn-01 { width: 68px; height: 60px; background-position: 0px 0px;}
+.sprite-Acorn-02 { width: 62px; height: 58px; background-position: 0px -60px;}
+.sprite-Acorn-03 { width: 62px; height: 63px; background-position: 0px -118px;}
+.sprite-Acorn-04 { width: 60px; height: 59px; background-position: 0px -181px;}
+.sprite-Acorn-05 { width: 67px; height: 59px; background-position: 0px -240px;}
+.sprite-Acorn-06 { width: 62px; height: 64px; background-position: 0px -299px;}
+.sprite-Acorn-07 { width: 60px; height: 67px; background-position: 0px -363px;}
+.sprite-Acorn-08 { width: 60px; height: 61px; background-position: 0px -430px;}
+.sprite-Acorn-09 { width: 88px; height: 38px; background-position: 0px -491px;}
+.sprite-Acorn-10 { width: 85px; height: 38px; background-position: 0px -529px;}
+.sprite-Acorn-11 { width: 88px; height: 36px; background-position: 0px -567px;}
+.sprite-Acorn-12 { width: 88px; height: 37px; background-position: 0px -603px;}

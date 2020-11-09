@@ -1,0 +1,37 @@
+.sprite { background-image: url('FP_Petal_Pink.png');}
+
+
+.sprite-Petal-P-A-01 { width: 20px; height: 23px; background-position: 0px 0px;}
+.sprite-Petal-P-A-02 { width: 19px; height: 23px; background-position: 0px -23px;}
+.sprite-Petal-P-A-03 { width: 20px; height: 21px; background-position: 0px -46px;}
+.sprite-Petal-P-A-04 { width: 20px; height: 21px; background-position: 0px -67px;}
+.sprite-Petal-P-A-05 { width: 20px; height: 20px; background-position: 0px -88px;}
+.sprite-Petal-P-A-06 { width: 25px; height: 21px; background-position: 0px -108px;}
+.sprite-Petal-P-A-07 { width: 25px; height: 16px; background-position: 0px -129px;}
+.sprite-Petal-P-A-08 { width: 31px; height: 14px; background-position: 0px -145px;}
+.sprite-Petal-P-A-09 { width: 31px; height: 13px; background-position: 0px -159px;}
+.sprite-Petal-P-A-10 { width: 32px; height: 14px; background-position: 0px -172px;}
+.sprite-Petal-P-A-11 { width: 33px; height: 16px; background-position: 0px -186px;}
+.sprite-Petal-P-A-12 { width: 33px; height: 16px; background-position: 0px -202px;}
+.sprite-Petal-P-A-13 { width: 32px; height: 19px; background-position: 0px -218px;}
+.sprite-Petal-P-A-14 { width: 31px; height: 20px; background-position: 0px -237px;}
+.sprite-Petal-P-A-15 { width: 32px; height: 20px; background-position: 0px -257px;}
+.sprite-Petal-P-A-16 { width: 31px; height: 20px; background-position: 0px -277px;}
+.sprite-Petal-P-A-17 { width: 29px; height: 22px; background-position: 0px -297px;}
+.sprite-Petal-P-B-01 { width: 29px; height: 23px; background-position: 0px -319px;}
+.sprite-Petal-P-B-02 { width: 31px; height: 23px; background-position: 0px -342px;}
+.sprite-Petal-P-B-03 { width: 31px; height: 21px; background-position: 0px -365px;}
+.sprite-Petal-P-B-04 { width: 31px; height: 20px; background-position: 0px -386px;}
+.sprite-Petal-P-B-05 { width: 33px; height: 20px; background-position: 0px -406px;}
+.sprite-Petal-P-B-06 { width: 33px; height: 18px; background-position: 0px -426px;}
+.sprite-Petal-P-B-07 { width: 34px; height: 17px; background-position: 0px -444px;}
+.sprite-Petal-P-B-08 { width: 34px; height: 14px; background-position: 0px -461px;}
+.sprite-Petal-P-B-09 { width: 33px; height: 14px; background-position: 0px -475px;}
+.sprite-Petal-P-B-10 { width: 34px; height: 15px; background-position: 0px -489px;}
+.sprite-Petal-P-B-11 { width: 34px; height: 13px; background-position: 0px -504px;}
+.sprite-Petal-P-B-12 { width: 33px; height: 15px; background-position: 0px -517px;}
+.sprite-Petal-P-B-13 { width: 31px; height: 17px; background-position: 0px -532px;}
+.sprite-Petal-P-B-14 { width: 31px; height: 19px; background-position: 0px -549px;}
+.sprite-Petal-P-B-15 { width: 33px; height: 20px; background-position: 0px -568px;}
+.sprite-Petal-P-B-16 { width: 30px; height: 21px; background-position: 0px -588px;}
+.sprite-Petal-P-B-17 { width: 30px; height: 20px; background-position: 0px -609px;}

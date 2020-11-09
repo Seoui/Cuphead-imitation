@@ -1,0 +1,13 @@
+.sprite { background-image: url('FP_Pollen.png');}
+
+
+.sprite-Pollen-A-1 { width: 56px; height: 55px; background-position: 0px 0px;}
+.sprite-Pollen-A-2 { width: 54px; height: 53px; background-position: 0px -55px;}
+.sprite-Pollen-A-3 { width: 52px; height: 54px; background-position: 0px -108px;}
+.sprite-Pollen-A-4 { width: 49px; height: 50px; background-position: 0px -162px;}
+.sprite-Pollen-A-5 { width: 49px; height: 48px; background-position: 0px -212px;}
+.sprite-Pollen-B-01 { width: 57px; height: 56px; background-position: 0px -260px;}
+.sprite-Pollen-B-02 { width: 52px; height: 54px; background-position: 0px -316px;}
+.sprite-Pollen-B-03 { width: 51px; height: 53px; background-position: 0px -370px;}
+.sprite-Pollen-B-04 { width: 49px; height: 51px; background-position: 0px -423px;}
+.sprite-Pollen-B-05 { width: 48px; height: 49px; background-position: 0px -474px;}

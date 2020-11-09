@@ -1,0 +1,21 @@
+.sprite { background-image: url('Venus_Vine.png');}
+
+
+.sprite-VFT-Vine-00 { width: 63px; height: 46px; background-position: 0px 0px;}
+.sprite-VFT-Vine-01 { width: 45px; height: 65px; background-position: 0px -46px;}
+.sprite-VFT-Vine-02 { width: 51px; height: 91px; background-position: 0px -111px;}
+.sprite-VFT-Vine-03 { width: 57px; height: 135px; background-position: 0px -202px;}
+.sprite-VFT-Vine-04 { width: 57px; height: 153px; background-position: 0px -337px;}
+.sprite-VFT-Vine-05 { width: 50px; height: 185px; background-position: 0px -490px;}
+.sprite-VFT-Vine-06 { width: 57px; height: 210px; background-position: 0px -675px;}
+.sprite-VFT-Vine-07 { width: 66px; height: 237px; background-position: 0px -885px;}
+.sprite-VFT-Vine-08 { width: 66px; height: 245px; background-position: 0px -1122px;}
+.sprite-VFT-Vine-09 { width: 68px; height: 262px; background-position: 0px -1367px;}
+.sprite-VFT-Vine-10 { width: 65px; height: 258px; background-position: 0px -1629px;}
+.sprite-VFT-Vine-11 { width: 67px; height: 267px; background-position: 0px -1887px;}
+.sprite-VFT-Vine-12 { width: 75px; height: 259px; background-position: 0px -2154px;}
+.sprite-VFT-Vine-13 { width: 73px; height: 259px; background-position: 0px -2413px;}
+.sprite-VFT-Vine-14 { width: 70px; height: 258px; background-position: 0px -2672px;}
+.sprite-VFT-Vine-15 { width: 69px; height: 256px; background-position: 0px -2930px;}
+.sprite-VFT-Vine-16 { width: 69px; height: 257px; background-position: 0px -3186px;}
+.sprite-Vine-C-17 { width: 71px; height: 257px; background-position: 0px -3443px;}

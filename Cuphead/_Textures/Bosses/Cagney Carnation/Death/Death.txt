@@ -1,0 +1,15 @@
+.sprite { background-image: url('Death.png');}
+
+
+.sprite-Death-01 { width: 453px; height: 627px; background-position: 0px 0px;}
+.sprite-Death-02 { width: 456px; height: 626px; background-position: 0px -627px;}
+.sprite-Death-03 { width: 458px; height: 626px; background-position: 0px -1253px;}
+.sprite-Death-04 { width: 462px; height: 619px; background-position: 0px -1879px;}
+.sprite-Death-05 { width: 466px; height: 634px; background-position: 0px -2498px;}
+.sprite-Death-06 { width: 476px; height: 621px; background-position: 0px -3132px;}
+.sprite-Death-07 { width: 479px; height: 625px; background-position: 0px -3753px;}
+.sprite-Death-08 { width: 490px; height: 622px; background-position: 0px -4378px;}
+.sprite-Death-09 { width: 475px; height: 628px; background-position: 0px -5000px;}
+.sprite-Death-10 { width: 468px; height: 622px; background-position: 0px -5628px;}
+.sprite-Death-11 { width: 491px; height: 624px; background-position: 0px -6250px;}
+.sprite-Death-12 { width: 461px; height: 624px; background-position: 0px -6874px;}
