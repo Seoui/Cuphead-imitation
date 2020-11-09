@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Background\EndClip.cpp" />
+    <ClCompile Include="Background\FloralFury.cpp" />
+    <ClCompile Include="Background\StartClip.cpp" />
+    <ClCompile Include="Character\Bosses\Cagney.cpp" />
+    <ClCompile Include="Character\Bosses\CagneyAnimation.cpp" />
+    <ClCompile Include="Character\Cuphead\Cuphead.cpp" />
+    <ClCompile Include="Character\Cuphead\CupheadAnimation.cpp" />
+    <ClCompile Include="Character\Cuphead\CupheadController.cpp" />
+    <ClCompile Include="Collider\Collider.cpp" />
+    <ClCompile Include="Collider\LineCollider.cpp" />
+    <ClCompile Include="Generator\AcornGenerator.cpp" />
+    <ClCompile Include="Generator\BoomerangGenerator.cpp" />
+    <ClCompile Include="Generator\ChomperGenerator.cpp" />
+    <ClCompile Include="Generator\MiniFlowerGenerator.cpp" />
+    <ClCompile Include="Generator\PollenGenerator.cpp" />
+    <ClCompile Include="Generator\VenusFlytrapGenerator.cpp" />
+    <ClCompile Include="Generator\VineGenerator.cpp" />
+    <ClCompile Include="Objects\FinalSubVine.cpp" />
+    <ClCompile Include="Renders\Line.cpp" />
+    <ClCompile Include="SceneManager.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Objects\Acorn.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Objects\Boomerang.cpp" />
+    <ClCompile Include="Objects\Chomper.cpp" />
+    <ClCompile Include="Objects\ChomperSeed.cpp" />
+    <ClCompile Include="Objects\FinalMainVine.cpp" />
+    <ClCompile Include="Objects\Homing.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="Objects\MiniFlower.cpp" />
+    <ClCompile Include="Objects\MiniFlowerSeed.cpp" />
+    <ClCompile Include="Objects\MiniFlowerVine.cpp" />
+    <ClCompile Include="Objects\Peashot.cpp" />
+    <ClCompile Include="Objects\PlatformA.cpp" />
+    <ClCompile Include="Objects\PlatformB.cpp" />
+    <ClCompile Include="Objects\PlatformC.cpp" />
+    <ClCompile Include="Objects\Pollen.cpp" />
+    <ClCompile Include="Objects\SeedMissile.cpp" />
+    <ClCompile Include="Objects\VenusFlytrap.cpp" />
+    <ClCompile Include="Objects\VenusSeed.cpp" />
+    <ClCompile Include="Objects\VenusVine.cpp" />
+    <ClCompile Include="Renders\Animation.cpp" />
+    <ClCompile Include="Renders\Clip.cpp" />
+    <ClCompile Include="Renders\Shader.cpp" />
+    <ClCompile Include="Renders\Sprite.cpp" />
+    <ClCompile Include="Scenes\CagneyCarnation.cpp" />
+    <ClCompile Include="Scenes\PlayScene.cpp" />
+    <ClCompile Include="Static\StaticCollisionList.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Systems\Device.cpp" />
+    <ClCompile Include="Systems\DirectWrite.cpp" />
+    <ClCompile Include="Systems\Keyboard.cpp" />
+    <ClCompile Include="Systems\Mouse.cpp" />
+    <ClCompile Include="Systems\Time.cpp" />
+    <ClCompile Include="Utilities\Math.cpp" />
+    <ClCompile Include="Utilities\String.cpp" />
+    <ClCompile Include="Viewer\Camera.cpp" />
+    <ClCompile Include="Viewer\Following.cpp" />
+    <ClCompile Include="Viewer\Freedom.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Background\EndClip.h" />
+    <ClInclude Include="Background\FloralFury.h" />
+    <ClInclude Include="Background\StartClip.h" />
+    <ClInclude Include="Character\Actor.h" />
+    <ClInclude Include="Character\Attackable.h" />
+    <ClInclude Include="Character\Bosses\Cagney.h" />
+    <ClInclude Include="Character\Bosses\CagneyAnimation.h" />
+    <ClInclude Include="Character\Cuphead\Cuphead.h" />
+    <ClInclude Include="Character\Cuphead\CupheadAnimation.h" />
+    <ClInclude Include="Character\Cuphead\CupheadController.h" />
+    <ClInclude Include="Collider\Collider.h" />
+    <ClInclude Include="Collider\LineCollider.h" />
+    <ClInclude Include="Generator\AcornGenerator.h" />
+    <ClInclude Include="Generator\BoomerangGenerator.h" />
+    <ClInclude Include="Generator\ChomperGenerator.h" />
+    <ClInclude Include="Generator\Generator.h" />
+    <ClInclude Include="Generator\MiniFlowerGenerator.h" />
+    <ClInclude Include="Generator\PollenGenerator.h" />
+    <ClInclude Include="Generator\VenusFlytrapGenerator.h" />
+    <ClInclude Include="Generator\VineGenerator.h" />
+    <ClInclude Include="Objects\FinalSubVine.h" />
+    <ClInclude Include="Renders\Line.h" />
+    <ClInclude Include="SceneManager.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Objects\Acorn.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Objects\Boomerang.h" />
+    <ClInclude Include="Objects\Chomper.h" />
+    <ClInclude Include="Objects\ChomperSeed.h" />
+    <ClInclude Include="Objects\EnemyObject.h" />
+    <ClInclude Include="Objects\FinalMainVine.h" />
+    <ClInclude Include="Objects\Homing.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
+    </ClInclude>
+    <ClInclude Include="Objects\MiniFlower.h" />
+    <ClInclude Include="Objects\MiniFlowerSeed.h" />
+    <ClInclude Include="Objects\MiniFlowerVine.h" />
+    <ClInclude Include="Objects\Object.h" />
+    <ClInclude Include="Objects\Peashot.h" />
+    <ClInclude Include="Objects\Platform.h" />
+    <ClInclude Include="Objects\PlatformA.h" />
+    <ClInclude Include="Objects\PlatformB.h" />
+    <ClInclude Include="Objects\PlatformC.h" />
+    <ClInclude Include="Objects\Pollen.h" />
+    <ClInclude Include="Objects\SeedMissile.h" />
+    <ClInclude Include="Objects\VenusFlytrap.h" />
+    <ClInclude Include="Objects\VenusSeed.h" />
+    <ClInclude Include="Objects\VenusVine.h" />
+    <ClInclude Include="Objects\Weapon.h" />
+    <ClInclude Include="Renders\Animation.h" />
+    <ClInclude Include="Renders\Clip.h" />
+    <ClInclude Include="Renders\Shader.h" />
+    <ClInclude Include="Renders\Sprite.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Scenes\CagneyCarnation.h" />
+    <ClInclude Include="Scenes\Scene.h" />
+    <ClInclude Include="Static\StaticCollisionList.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Systems\Device.h" />
+    <ClInclude Include="Systems\DirectWrite.h" />
+    <ClInclude Include="Systems\Keyboard.h" />
+    <ClInclude Include="Systems\Mouse.h" />
+    <ClInclude Include="Systems\Time.h" />
+    <ClInclude Include="Utilities\Math.h" />
+    <ClInclude Include="Utilities\String.h" />
+    <ClInclude Include="Viewer\Camera.h" />
+    <ClInclude Include="Viewer\Following.h" />
+    <ClInclude Include="Viewer\Freedom.h" />
+    <ClInclude Include="Viewer\IFollowing.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Shaders\Bounding.fx">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="_Shaders\Effect.fx">
+      <FileType>Document</FileType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cuphead.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_Textures\Cuphead_Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Shaders\Cagney.fx">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="_Shaders\Cuphead.fx">
+      <FileType>Document</FileType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Objects\plan.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Shaders\Actor.fx">
+      <FileType>Document</FileType>
+    </None>
+    <None Include="_Shaders\Object.fx">
+      <FileType>Document</FileType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Shaders\Line.fx">
+      <FileType>Document</FileType>
+    </None>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{AF334C90-7C52-4DFA-B9D6-1CD8AFCD7AA2}</ProjectGuid>
+    <RootNamespace>Cuphead</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);D:\DX\Include;C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Include;E:\D)  Cuphead\Cuphead Workup\Cuphead\_Libraries;D:\D)  Cuphead\Cuphead Workup\Cuphead\_Libraries;$(IncludePath)</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;D:\DX\Lib\x86;C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\Lib\x86;E:\D)  Cuphead\Cuphead Workup\Cuphead\_Libraries;D:\D)  Cuphead\Cuphead Workup\Cuphead\_Libraries;$(LibraryPath)</LibraryPath>
+    <ExecutablePath>$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);D:\DX\Include;E:\f  Cuphead\Cuphead\_Libraries</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;D:\DX\Lib\x86;E:\f  Cuphead\Cuphead\_Libraries</LibraryPath>
+    <ExecutablePath>./;$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);D:\DX\Include;E:\f  Cuphead\Cuphead\_Libraries</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;D:\DX\Lib\x86;E:\f  Cuphead\Cuphead\_Libraries</LibraryPath>
+    <ExecutablePath>./;$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);D:\DX\Include;E:\f  Cuphead\Cuphead\_Libraries</IncludePath>
+    <LibraryPath>$(VC_LibraryPath_x86);$(WindowsSDK_LibraryPath_x86);$(NETFXKitsDir)Lib\um\x86;D:\DX\Lib\x86;E:\f  Cuphead\Cuphead\_Libraries</LibraryPath>
+    <ExecutablePath>./;$(ExecutablePath)</ExecutablePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>false</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>./;./_Libraries/;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>false</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <AdditionalIncludeDirectories>./;./_Libraries/;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions);NDRBUG</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <AdditionalIncludeDirectories>./;./_Libraries/;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <FavorSizeOrSpeed>Speed</FavorSizeOrSpeed>
+      <PreprocessorDefinitions>_MBCS;%(PreprocessorDefinitions);NDRBUG</PreprocessorDefinitions>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <AdditionalIncludeDirectories>./;./_Libraries/;</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>NotSet</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

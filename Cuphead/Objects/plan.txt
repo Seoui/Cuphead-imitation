@@ -1,0 +1,138 @@
+[메모]
+	DirectX SDK를 바꾸자(->Windows10에서 작동할 수 있도록 만들자)
+	게임 LoadTexture는 DirectXTK 라이브러리 사용할 것.
+	애니메이션 클래스는 동시에 두개 이상의 텍스처를 재생할 수 없다. 그러니까
+	서로 다른 위치에 하나의 애니메이션 객체가 두 위치에서 재생 할 수 없다.
+	따라서 특정 애니메이션은 클립을 여러개 사용해야 한다.
+========================================================================
+// 9.19
+*Cuphead Cagney 마무리 짓자
+*Cagney 관련 오브젝트 전부 만든다.
+*Cagney와 관련된 모든 오브젝트에 collider 씌우기
+*Cagney가 각 페이즈마다 사용하는 기술 전개 확인
+*Cuphead와 상호작용...? 확인 정도만? 일단 4번까지는 확실한 목표
+*모두 unique_ptr로 바꾸어라 ~!
+
+// 9.20
+*목표는 못했다..
+하지만 오늘 Cuphead가 총을 발사 했을 때 effect를 구현했다.
+구조는 Peashots클래스에 FireFX clip을 추가했다.
+여러 생각이 필요하다.
+조금 더 다듬을 필요는 있다.
+*할 일이 굉장히 많다.. 충돌처리와 충돌했을때의 FX 효과처리 등등..
+구현해야 할 많은 상호작용이 있다.
+
+// 9.21
+*hitFX 추가했다. 충돌 구현 아직.
+*groundBurst는 땅에서 생성되는 오브젝트에 하나의 클립으로 들어간다.
+*Animation class는 특정한 clip에만 제외하고 collider를 생성하는 것이 힘들다.
+그래서 clip마다 collider를 다르게 설정해주기 위해선 Animation class 말고
+여러개의 clip class를 사용해라 분리해라 걍
+*뭔가 각 동작이 연결되는 느낌이면 animation 
+동작이 분리되어 있는 느낌이면 clip, 연결되는 느낌이라도 collider가 선택적이면 clip
+*template 생각해봐라
+
+// 9.22 
+*stl컨테이너에 저장될 데이터 클래스라면 이동 시맨틱을 구현하는 것이 좋다.
+훨씬 빨라지기 때문이다 professional c++ [2] p750
+*const const const 
+
+// 9.23
+*지금 Device 클래스 완전 처음부터 스마트 포인터 작업과 const 작업을 같이 하고 있다.
+골이 깨질 듯 하다.
+*이 작업은 내일 현재 하던 것만 마무리 하고 중단한 다음에 cuphead랑 cagney 작업 진행하자.
+
+// 9.24
+*스마트포인터랑 const 작업 조금 했고..
+아직 진행중이다. 특히 싱글톤 패턴의 DirectWrite, Time 클래스에서의 ComPtr 사용 방법을 잘 모르겠다...
+*아 싱글톤 패턴에서 unique_ptr<A> instance -> make_unique<A>() 할 때는 friend 선언이 필요하다. OKKY에 올린 내 질문글 참조하길
+
+// 9.29
+*platform
+*backgroud
+*Cagney firing seed 작업중
+
+// 10.5
+*platform 일단 draw 해놨고, line Collider 작업만 올려주면 된다.
+*background 작업해야하고
+firing seed에서 애니메이션이랑 seed 작업중
+
+// 10.6
+*[완료] background
+*[완료] platform
+*충돌처리 생각해라
+*아 그리고 WM_RESIZE 오류 있다. swapchain unique ptr 문제인지 해야함
+
+// 10.7
+*[완료] 충돌하면 Hit 모션 구현완료. hit 했을 때 fx와 카메라 효과도 주어야 한다.
+* collide 처리를 scene에서 하되 모든 오브젝트는 각 캐릭터 클래스에서 하기로 (잠정) 결정했다.
+사실 SceneManager 클래스 같은걸 만들어서 여기다가 모든 서브 오브젝트들을 생성하고 
+충돌처리를 하려고 했지만... 무척 큰일이 될 것 같고;;; 시간이 남으면 작업하자 이부분은
+* cagney faceattack 안했더라
+* Timer 이용해서 원하는 순간에 특정 함수를 콜할 수 있다. Time 클래스 확인 해 볼 것.
+
+// 10.10
+clip에서 원하는 기능
+1. 기본 Loop 모드에서 처음은 전체 클립을 재생하고 그 후 특정 시작 프레임과 끝 프레임을 
+Loop 재생 기능
+2. Loop 재생인데 특정 횟수만큼만 Loop 하도록 하는 기능(몇번 반복)
+3. 1번과 2번 기능을 합친거, 특정 프레임만 Loop재생하면서 특정 횟수 반복기능
+4. 왕복재생
+5. 딱 한번만 재생
+
+* cagney, chomper manager, chomper, chomper seed 
+95% 구현완료
+
+// 10.11
+ChomperManager, MiniflowerManager, FlytrapManager 구현 90% 완료
+위치 조정과 충돌 처리만 하면 된다..!
+아 그리고 5개 뿌려야 하는거 잊지 말자.
+그러면 firing seeds에서 cagney의 애니메이션 수정이 남아있다.
+
+// 10.12
+cagney firing seeds 여전히 구현 중 
+충돌처리와 애니메이션 이슈가 있다.
+그리고 firing seeds를 무한히 시전 할 수 있는가
+이어서 firing seeds를 시전할 때 마다 모든 오브젝트의 독립화 또는...
+
+// 10.13
+static vector<Attackble> AttackableVector 생성하는 법
+이것을 이용해서 생성되어있는 모든 Attackable를 
+충돌처리에 사용
+
+// 10.14
+Boomerang, Acorn 까지 했다 -> 사라지는 건 아직 안함
+phase2  들어가기전에 phase1 완벽 마무리 하자..!
+스킬 시간 자세하게 설정하고, 오브젝트 사라지는거,
+또한 충돌처리 , 그리고 cagney 애니메이션 배치 까지
+얼마안남았다 phase1 완벽하게 마무으리
+
+// 10.15
+World함수는 가장 마지막에 정리..!
+
+// 10.18
+페이즈 1 마무리 작업 중.. 거의 다 왔다
+
+// 10.19
+페이즈 1 마무리 단계, face attack은 보류
+아직 mini flower의 위치와, flytrap의 위치가 정해지지 않았다.
+이것만 정하면 1페이즈는 끝난다.
+
+// 10.20
+final vine
+face attack align 하는 법
+clip의 매 프레임 마다 포지션을 정해준다.
+가장 큰 문제는 face attack 과 final vine 문제이다
+이것은 어려운 문제이므로 보류
+지금 당장 중요한것은 line collider 해결이다.
+
+// 10.22
+라인 점프 작업중입니다.
+첫 화면과 피격되었을 때 셰이더 효과 넣어주면 됩니다.
+
+// 10.29
+완성. 하지만 미흡한점이 많다.
+시간 사정상 셰이더 효과를 만들지 못했고, 게임 내 이펙트도 전부 다 구현하지 못했다.
+또한 계획상 게임 시작 씬 또는 튜토리얼 씬 등 여러가지 컨텐츠를 추가할 예정이었지만 역시 못했다.
+생각보다 많은 시간이 필요했고, 많은 작업이 필요했다. 그래도 최선을 다했다.
+이 정도의 게임을 만드는데도 엄청난 작업이 필요하다는 것을 알게 된 것이 좋은 경험이 되었다고 생각한다.

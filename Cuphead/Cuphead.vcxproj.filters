@@ -1,0 +1,468 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="_Shaders">
+      <UniqueIdentifier>{d30683bf-cf26-4642-95a4-6953cb1a6920}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collider">
+      <UniqueIdentifier>{77cab66f-7f48-48b8-8e2c-1e837ae0815f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects">
+      <UniqueIdentifier>{0fd163d3-a031-4bd4-960f-fc5a840d838c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{25e0bfe3-d55f-4c97-bb85-d8712e549ccd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Systems">
+      <UniqueIdentifier>{b6e19ac8-17ee-4378-bb93-86816f391972}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utillities">
+      <UniqueIdentifier>{b9ad33f2-a8b0-46d0-bb01-e936e069cb8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Viewer">
+      <UniqueIdentifier>{9fee2bfa-86ed-4542-bcb4-367a4cf998f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Renders">
+      <UniqueIdentifier>{5e14daf1-953d-4559-91db-74799f3a760e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource">
+      <UniqueIdentifier>{a1dd951e-c40e-418b-a893-8232a9c6b939}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character">
+      <UniqueIdentifier>{d79e67d9-f59b-4cbe-a262-b2b5e24c549e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Cuphead">
+      <UniqueIdentifier>{c7007926-59bc-4990-973b-1415177516fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Character\Bosses">
+      <UniqueIdentifier>{131ed1a6-5ac4-4b7b-8850-f1442a9f15e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\weapon">
+      <UniqueIdentifier>{3f97f9b9-b518-4c8b-b29d-55ddff016aa1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cagney">
+      <UniqueIdentifier>{e4d22ed2-6ee8-464a-83c2-87aebce050c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="_A%29 Plan">
+      <UniqueIdentifier>{54f880e7-ca1a-4233-b3b9-7f65388c18cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cagney\FinalForm">
+      <UniqueIdentifier>{8b393425-39d7-488b-9e75-f2a722563f41}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cagney\CreatingObject">
+      <UniqueIdentifier>{6cfc18ec-262d-4cd6-895b-4b174c7e0181}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cagney\FiringSeeds">
+      <UniqueIdentifier>{cc962c6e-23d7-443f-97a2-8e45d0f04d73}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Background">
+      <UniqueIdentifier>{275d1925-23bf-4e6a-9cf0-bb6fb280c2d0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Objects\Cagney\FaceAttack">
+      <UniqueIdentifier>{346ab80b-0d5f-4078-8d9d-1a7313174655}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generator">
+      <UniqueIdentifier>{dcb9cc29-2dab-4117-bcc5-67603d7057b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Static">
+      <UniqueIdentifier>{27605615-5795-4394-8f7d-c0aaf608d6ed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="Collider\Collider.cpp">
+      <Filter>Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Animation.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Clip.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Shader.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Sprite.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Device.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\DirectWrite.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Keyboard.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Time.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\Math.cpp">
+      <Filter>Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="Utilities\String.cpp">
+      <Filter>Utillities</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Camera.cpp">
+      <Filter>Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Following.cpp">
+      <Filter>Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="Viewer\Freedom.cpp">
+      <Filter>Viewer</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\CagneyCarnation.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Cuphead\Cuphead.cpp">
+      <Filter>Character\Cuphead</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Cuphead\CupheadAnimation.cpp">
+      <Filter>Character\Cuphead</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Bosses\Cagney.cpp">
+      <Filter>Character\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Bosses\CagneyAnimation.cpp">
+      <Filter>Character\Bosses</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Homing.cpp">
+      <Filter>Objects\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Peashot.cpp">
+      <Filter>Objects\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Pollen.cpp">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Acorn.cpp">
+      <Filter>Objects\Cagney\CreatingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Boomerang.cpp">
+      <Filter>Objects\Cagney\CreatingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\Chomper.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\ChomperSeed.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\MiniFlower.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\MiniFlowerSeed.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\MiniFlowerVine.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\VenusFlytrap.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\VenusSeed.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\VenusVine.cpp">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\PlatformA.cpp">
+      <Filter>Objects\Cagney</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\PlatformB.cpp">
+      <Filter>Objects\Cagney</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\PlatformC.cpp">
+      <Filter>Objects\Cagney</Filter>
+    </ClCompile>
+    <ClCompile Include="Background\FloralFury.cpp">
+      <Filter>Background</Filter>
+    </ClCompile>
+    <ClCompile Include="Character\Cuphead\CupheadController.cpp">
+      <Filter>Character\Cuphead</Filter>
+    </ClCompile>
+    <ClCompile Include="Systems\Mouse.cpp">
+      <Filter>Systems</Filter>
+    </ClCompile>
+    <ClCompile Include="Scenes\PlayScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp" />
+    <ClCompile Include="Generator\ChomperGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\MiniFlowerGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\VenusFlytrapGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\AcornGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\BoomerangGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Static\StaticCollisionList.cpp">
+      <Filter>Static</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\PollenGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Generator\VineGenerator.cpp">
+      <Filter>Generator</Filter>
+    </ClCompile>
+    <ClCompile Include="Collider\LineCollider.cpp">
+      <Filter>Collider</Filter>
+    </ClCompile>
+    <ClCompile Include="Renders\Line.cpp">
+      <Filter>Renders</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\FinalMainVine.cpp">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\FinalSubVine.cpp">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClCompile>
+    <ClCompile Include="Objects\SeedMissile.cpp">
+      <Filter>Objects\Cagney</Filter>
+    </ClCompile>
+    <ClCompile Include="Background\StartClip.cpp">
+      <Filter>Background</Filter>
+    </ClCompile>
+    <ClCompile Include="Background\EndClip.cpp">
+      <Filter>Background</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Collider\Collider.h">
+      <Filter>Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Animation.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Clip.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Shader.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Sprite.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Scenes\Scene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Device.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\DirectWrite.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Keyboard.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Time.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\Math.h">
+      <Filter>Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="Utilities\String.h">
+      <Filter>Utillities</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Camera.h">
+      <Filter>Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Following.h">
+      <Filter>Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\Freedom.h">
+      <Filter>Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="Viewer\IFollowing.h">
+      <Filter>Viewer</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Resource</Filter>
+    </ClInclude>
+    <ClInclude Include="Scenes\CagneyCarnation.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Actor.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Cuphead\Cuphead.h">
+      <Filter>Character\Cuphead</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Cuphead\CupheadAnimation.h">
+      <Filter>Character\Cuphead</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Bosses\Cagney.h">
+      <Filter>Character\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Bosses\CagneyAnimation.h">
+      <Filter>Character\Bosses</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Homing.h">
+      <Filter>Objects\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Weapon.h">
+      <Filter>Objects\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Peashot.h">
+      <Filter>Objects\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Object.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Attackable.h">
+      <Filter>Character</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\EnemyObject.h">
+      <Filter>Objects</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Pollen.h">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Acorn.h">
+      <Filter>Objects\Cagney\CreatingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Boomerang.h">
+      <Filter>Objects\Cagney\CreatingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Chomper.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\ChomperSeed.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\MiniFlower.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\MiniFlowerSeed.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\MiniFlowerVine.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\VenusFlytrap.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\VenusSeed.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\VenusVine.h">
+      <Filter>Objects\Cagney\FiringSeeds</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\Platform.h">
+      <Filter>Objects\Cagney</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\PlatformA.h">
+      <Filter>Objects\Cagney</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\PlatformB.h">
+      <Filter>Objects\Cagney</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\PlatformC.h">
+      <Filter>Objects\Cagney</Filter>
+    </ClInclude>
+    <ClInclude Include="Background\FloralFury.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+    <ClInclude Include="Character\Cuphead\CupheadController.h">
+      <Filter>Character\Cuphead</Filter>
+    </ClInclude>
+    <ClInclude Include="Systems\Mouse.h">
+      <Filter>Systems</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h" />
+    <ClInclude Include="Generator\ChomperGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\MiniFlowerGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\VenusFlytrapGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\Generator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\AcornGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\BoomerangGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Static\StaticCollisionList.h">
+      <Filter>Static</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\PollenGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Generator\VineGenerator.h">
+      <Filter>Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="Collider\LineCollider.h">
+      <Filter>Collider</Filter>
+    </ClInclude>
+    <ClInclude Include="Renders\Line.h">
+      <Filter>Renders</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\FinalMainVine.h">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\FinalSubVine.h">
+      <Filter>Objects\Cagney\FinalForm</Filter>
+    </ClInclude>
+    <ClInclude Include="Objects\SeedMissile.h">
+      <Filter>Objects\Cagney</Filter>
+    </ClInclude>
+    <ClInclude Include="Background\StartClip.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+    <ClInclude Include="Background\EndClip.h">
+      <Filter>Background</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="_Shaders\Bounding.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Effect.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Cuphead.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Cagney.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Object.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Actor.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+    <None Include="_Shaders\Line.fx">
+      <Filter>_Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Cuphead.rc">
+      <Filter>Resource</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_Textures\Cuphead_Icon.ico">
+      <Filter>Resource</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Objects\plan.txt">
+      <Filter>_A%29 Plan</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
