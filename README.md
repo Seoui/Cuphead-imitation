@@ -1,7 +1,10 @@
 # Cuphead-imitation
-DirectX 게임 포트폴리오입니다.
+DirectX 게임 포트폴리오입니다.  
+
 유투브 주소: https://www.youtube.com/watch?v=5m51MYeBb68  
+
 Cuphead의 Cagney Carnation 씬을 모작하였습니다  
+
 
 게임실행을 위해 몇가지 작업이 필요합니다  
 
