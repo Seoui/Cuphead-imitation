@@ -1,0 +1,16 @@
+.sprite { background-image: url('cuphead_duck.png');}
+
+
+.sprite-cuphead-duck-0001 { width: 144px; height: 122px; background-position: 0px 0px;}
+.sprite-cuphead-duck-0002 { width: 167px; height: 100px; background-position: 0px -122px;}
+.sprite-cuphead-duck-0004 { width: 161px; height: 76px; background-position: 0px -222px;}
+.sprite-cuphead-duck-0005 { width: 164px; height: 80px; background-position: 0px -298px;}
+.sprite-cuphead-duck-0006 { width: 161px; height: 85px; background-position: 0px -378px;}
+.sprite-cuphead-duck-0007 { width: 162px; height: 92px; background-position: 0px -463px;}
+.sprite-cuphead-duck-0008 { width: 163px; height: 92px; background-position: 0px -555px;}
+.sprite-cuphead-duck-idle-0001 { width: 162px; height: 68px; background-position: 0px -647px;}
+.sprite-cuphead-duck-idle-0002 { width: 164px; height: 69px; background-position: 0px -715px;}
+.sprite-cuphead-duck-idle-0003 { width: 164px; height: 74px; background-position: 0px -784px;}
+.sprite-cuphead-duck-idle-0004 { width: 162px; height: 76px; background-position: 0px -858px;}
+.sprite-cuphead-duck-idle-0005 { width: 162px; height: 80px; background-position: 0px -934px;}
+.sprite-cuphead-duck-turn { width: 168px; height: 75px; background-position: 0px -1014px;}

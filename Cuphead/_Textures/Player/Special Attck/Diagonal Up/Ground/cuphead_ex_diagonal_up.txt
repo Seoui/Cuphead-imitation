@@ -1,0 +1,18 @@
+.sprite { background-image: url('cuphead_ex_diagonal_up.png');}
+
+
+.sprite-cuphead-ex-diagonal-up-0001 { width: 111px; height: 142px; background-position: 0px 0px;}
+.sprite-cuphead-ex-diagonal-up-0002 { width: 106px; height: 138px; background-position: 0px -142px;}
+.sprite-cuphead-ex-diagonal-up-0003 { width: 108px; height: 134px; background-position: 0px -280px;}
+.sprite-cuphead-ex-diagonal-up-0004 { width: 102px; height: 134px; background-position: 0px -414px;}
+.sprite-cuphead-ex-diagonal-up-0005 { width: 113px; height: 138px; background-position: 0px -548px;}
+.sprite-cuphead-ex-diagonal-up-0006 { width: 126px; height: 139px; background-position: 0px -686px;}
+.sprite-cuphead-ex-diagonal-up-0007 { width: 160px; height: 132px; background-position: 0px -825px;}
+.sprite-cuphead-ex-diagonal-up-0008 { width: 392px; height: 377px; background-position: 0px -957px;}
+.sprite-cuphead-ex-diagonal-up-0009 { width: 382px; height: 388px; background-position: 0px -1334px;}
+.sprite-cuphead-ex-diagonal-up-0010 { width: 142px; height: 174px; background-position: 0px -1722px;}
+.sprite-cuphead-ex-diagonal-up-0011 { width: 142px; height: 179px; background-position: 0px -1896px;}
+.sprite-cuphead-ex-diagonal-up-0012 { width: 137px; height: 184px; background-position: 0px -2075px;}
+.sprite-cuphead-ex-diagonal-up-0013 { width: 130px; height: 189px; background-position: 0px -2259px;}
+.sprite-cuphead-ex-diagonal-up-0014 { width: 111px; height: 194px; background-position: 0px -2448px;}
+.sprite-cuphead-ex-diagonal-up-0015 { width: 107px; height: 207px; background-position: 0px -2642px;}

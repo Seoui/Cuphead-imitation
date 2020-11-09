@@ -1,0 +1,19 @@
+.sprite { background-image: url('cuphead_explode_fx.png');}
+
+
+.sprite-cuphead-explode-fx-0001 { width: 45px; height: 46px; background-position: 0px 0px;}
+.sprite-cuphead-explode-fx-0002 { width: 64px; height: 67px; background-position: 0px -46px;}
+.sprite-cuphead-explode-fx-0003 { width: 90px; height: 93px; background-position: 0px -113px;}
+.sprite-cuphead-explode-fx-0004 { width: 129px; height: 131px; background-position: 0px -206px;}
+.sprite-cuphead-explode-fx-0005 { width: 183px; height: 180px; background-position: 0px -337px;}
+.sprite-cuphead-explode-fx-0006 { width: 227px; height: 223px; background-position: 0px -517px;}
+.sprite-cuphead-explode-fx-0007 { width: 262px; height: 254px; background-position: 0px -740px;}
+.sprite-cuphead-explode-fx-0008 { width: 311px; height: 302px; background-position: 0px -994px;}
+.sprite-cuphead-explode-fx-0009 { width: 326px; height: 315px; background-position: 0px -1296px;}
+.sprite-cuphead-explode-fx-0010 { width: 330px; height: 326px; background-position: 0px -1611px;}
+.sprite-cuphead-explode-fx-0011 { width: 340px; height: 335px; background-position: 0px -1937px;}
+.sprite-cuphead-explode-fx-0012 { width: 354px; height: 351px; background-position: 0px -2272px;}
+.sprite-cuphead-explode-fx-0013 { width: 371px; height: 377px; background-position: 0px -2623px;}
+.sprite-cuphead-explode-fx-0014 { width: 369px; height: 375px; background-position: 0px -3000px;}
+.sprite-cuphead-explode-fx-0015 { width: 374px; height: 381px; background-position: 0px -3375px;}
+.sprite-cuphead-explode-fx-0016 { width: 383px; height: 388px; background-position: 0px -3756px;}

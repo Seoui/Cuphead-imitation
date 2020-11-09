@@ -1,0 +1,8 @@
+.sprite { background-image: url('cuphead_idle.png');}
+
+
+.sprite-cuphead-idle-0001 { width: 98px; height: 155px; background-position: 0px 0px;}
+.sprite-cuphead-idle-0002 { width: 98px; height: 152px; background-position: 0px -155px;}
+.sprite-cuphead-idle-0003 { width: 98px; height: 149px; background-position: 0px -307px;}
+.sprite-cuphead-idle-0004 { width: 100px; height: 143px; background-position: 0px -456px;}
+.sprite-cuphead-idle-0005 { width: 97px; height: 138px; background-position: 0px -599px;}

@@ -1,0 +1,12 @@
+.sprite { background-image: url('heart_player_ch_super2_bodyfloat.png');}
+
+
+.sprite-heart-player-ch-superII-bodyfloat-0003 { width: 60px; height: 42px; background-position: 0px 0px;}
+.sprite-heart-player-ch-superII-bodyfloat-0004 { width: 70px; height: 59px; background-position: 0px -42px;}
+.sprite-heart-player-ch-superII-bodyfloat-0005 { width: 76px; height: 63px; background-position: 0px -101px;}
+.sprite-heart-player-ch-superII-bodyfloat-0006 { width: 87px; height: 89px; background-position: 0px -164px;}
+.sprite-heart-player-ch-superII-bodyfloat-0007 { width: 90px; height: 104px; background-position: 0px -253px;}
+.sprite-heart-player-ch-superII-bodyfloat-0008 { width: 95px; height: 112px; background-position: 0px -357px;}
+.sprite-heart-player-ch-superII-bodyfloat-0009 { width: 94px; height: 105px; background-position: 0px -469px;}
+.sprite-heart-player-ch-superII-bodyfloat-0010 { width: 98px; height: 97px; background-position: 0px -574px;}
+.sprite-heart-player-ch-superII-bodyfloat-0011 { width: 97px; height: 90px; background-position: 0px -671px;}

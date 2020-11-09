@@ -1,0 +1,27 @@
+.sprite { background-image: url('cuphead_ghost.png');}
+
+
+.sprite-cuphead-ghost-0001 { width: 140px; height: 207px; background-position: 0px 0px;}
+.sprite-cuphead-ghost-0002 { width: 134px; height: 205px; background-position: 0px -207px;}
+.sprite-cuphead-ghost-0003 { width: 131px; height: 205px; background-position: 0px -412px;}
+.sprite-cuphead-ghost-0004 { width: 128px; height: 208px; background-position: 0px -617px;}
+.sprite-cuphead-ghost-0005 { width: 128px; height: 206px; background-position: 0px -825px;}
+.sprite-cuphead-ghost-0006 { width: 128px; height: 203px; background-position: 0px -1031px;}
+.sprite-cuphead-ghost-0007 { width: 134px; height: 200px; background-position: 0px -1234px;}
+.sprite-cuphead-ghost-0008 { width: 132px; height: 201px; background-position: 0px -1434px;}
+.sprite-cuphead-ghost-0009 { width: 137px; height: 205px; background-position: 0px -1635px;}
+.sprite-cuphead-ghost-0010 { width: 132px; height: 205px; background-position: 0px -1840px;}
+.sprite-cuphead-ghost-0011 { width: 130px; height: 205px; background-position: 0px -2045px;}
+.sprite-cuphead-ghost-0012 { width: 130px; height: 206px; background-position: 0px -2250px;}
+.sprite-cuphead-ghost-0013 { width: 128px; height: 204px; background-position: 0px -2456px;}
+.sprite-cuphead-ghost-0014 { width: 128px; height: 207px; background-position: 0px -2660px;}
+.sprite-cuphead-ghost-0015 { width: 122px; height: 199px; background-position: 0px -2867px;}
+.sprite-cuphead-ghost-0016 { width: 124px; height: 194px; background-position: 0px -3066px;}
+.sprite-cuphead-ghost-0017 { width: 124px; height: 194px; background-position: 0px -3260px;}
+.sprite-cuphead-ghost-0018 { width: 130px; height: 189px; background-position: 0px -3454px;}
+.sprite-cuphead-ghost-0019 { width: 139px; height: 184px; background-position: 0px -3643px;}
+.sprite-cuphead-ghost-0020 { width: 140px; height: 184px; background-position: 0px -3827px;}
+.sprite-cuphead-ghost-0021 { width: 142px; height: 190px; background-position: 0px -4011px;}
+.sprite-cuphead-ghost-0022 { width: 141px; height: 195px; background-position: 0px -4201px;}
+.sprite-cuphead-ghost-0023 { width: 140px; height: 198px; background-position: 0px -4396px;}
+.sprite-cuphead-ghost-0024 { width: 141px; height: 203px; background-position: 0px -4594px;}

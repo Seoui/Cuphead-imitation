@@ -1,0 +1,9 @@
+.sprite { background-image: url('cuphead_hit.png');}
+
+
+.sprite-cuphead-hit-0001 { width: 117px; height: 190px; background-position: 0px 0px;}
+.sprite-cuphead-hit-0002 { width: 125px; height: 206px; background-position: 0px -190px;}
+.sprite-cuphead-hit-0003 { width: 119px; height: 221px; background-position: 0px -396px;}
+.sprite-cuphead-hit-0004 { width: 121px; height: 214px; background-position: 0px -617px;}
+.sprite-cuphead-hit-0005 { width: 122px; height: 205px; background-position: 0px -831px;}
+.sprite-cuphead-hit-0006 { width: 120px; height: 191px; background-position: 0px -1036px;}

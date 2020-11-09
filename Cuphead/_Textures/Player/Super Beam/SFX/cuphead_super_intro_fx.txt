@@ -1,0 +1,14 @@
+.sprite { background-image: url('cuphead_super_intro_fx.png');}
+
+
+.sprite-cuphead-super-intro-fx-0001 { width: 365px; height: 659px; background-position: 0px 0px;}
+.sprite-cuphead-super-intro-fx-0002 { width: 180px; height: 657px; background-position: 0px -659px;}
+.sprite-cuphead-super-intro-fx-0003 { width: 99px; height: 659px; background-position: 0px -1316px;}
+.sprite-cuphead-super-intro-fx-0004 { width: 74px; height: 659px; background-position: 0px -1975px;}
+.sprite-cuphead-super-intro-fx-0005 { width: 69px; height: 659px; background-position: 0px -2634px;}
+.sprite-cuphead-super-intro-fx-0006 { width: 99px; height: 645px; background-position: 0px -3293px;}
+.sprite-cuphead-super-intro-fx-0007 { width: 1018px; height: 69px; background-position: 0px -3938px;}
+.sprite-cuphead-super-intro-fx-0008 { width: 61px; height: 66px; background-position: 0px -4007px;}
+.sprite-cuphead-super-intro-fx-0009 { width: 686px; height: 41px; background-position: 0px -4073px;}
+.sprite-cuphead-super-intro-fx-0010 { width: 62px; height: 66px; background-position: 0px -4114px;}
+.sprite-cuphead-super-intro-fx-0011 { width: 481px; height: 38px; background-position: 0px -4180px;}

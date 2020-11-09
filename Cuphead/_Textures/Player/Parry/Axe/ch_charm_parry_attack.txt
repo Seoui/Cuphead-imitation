@@ -1,0 +1,11 @@
+.sprite { background-image: url('ch_charm_parry_attack.png');}
+
+
+.sprite-ch-charm-parry-attack-0001 { width: 112px; height: 153px; background-position: 0px 0px;}
+.sprite-ch-charm-parry-attack-0002 { width: 116px; height: 158px; background-position: 0px -153px;}
+.sprite-ch-charm-parry-attack-0003 { width: 150px; height: 138px; background-position: 0px -311px;}
+.sprite-ch-charm-parry-attack-0004 { width: 132px; height: 168px; background-position: 0px -449px;}
+.sprite-ch-charm-parry-attack-0005 { width: 110px; height: 151px; background-position: 0px -617px;}
+.sprite-ch-charm-parry-attack-0006 { width: 109px; height: 146px; background-position: 0px -768px;}
+.sprite-ch-charm-parry-attack-0007 { width: 128px; height: 145px; background-position: 0px -914px;}
+.sprite-ch-charm-parry-attack-0008 { width: 133px; height: 127px; background-position: 0px -1059px;}

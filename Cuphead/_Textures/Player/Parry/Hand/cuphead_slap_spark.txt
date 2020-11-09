@@ -1,0 +1,12 @@
+.sprite { background-image: url('cuphead_slap_spark.png');}
+
+
+.sprite-cuphead-slap-spark-0001 { width: 214px; height: 230px; background-position: 0px 0px;}
+.sprite-cuphead-slap-spark-0002 { width: 212px; height: 236px; background-position: 0px -230px;}
+.sprite-cuphead-slap-spark-0003 { width: 221px; height: 237px; background-position: 0px -466px;}
+.sprite-cuphead-slap-spark-0004 { width: 233px; height: 246px; background-position: 0px -703px;}
+.sprite-cuphead-slap-spark-0005 { width: 232px; height: 249px; background-position: 0px -949px;}
+.sprite-cuphead-slap-spark-0006 { width: 240px; height: 249px; background-position: 0px -1198px;}
+.sprite-cuphead-slap-spark-0007 { width: 265px; height: 260px; background-position: 0px -1447px;}
+.sprite-cuphead-slap-spark-0008 { width: 249px; height: 266px; background-position: 0px -1707px;}
+.sprite-cuphead-slap-spark-0009 { width: 248px; height: 280px; background-position: 0px -1973px;}

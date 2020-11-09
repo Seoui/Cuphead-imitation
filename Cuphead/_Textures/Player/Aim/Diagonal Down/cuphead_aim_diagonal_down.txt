@@ -1,0 +1,8 @@
+.sprite { background-image: url('Cuphead_aim_diagonal_down.png');}
+
+
+.sprite-aim-diagonal-down-0001 { width: 118px; height: 163px; background-position: 0px 0px;}
+.sprite-aim-diagonal-down-0002 { width: 117px; height: 158px; background-position: 0px -163px;}
+.sprite-aim-diagonal-down-0003 { width: 117px; height: 156px; background-position: 0px -321px;}
+.sprite-aim-diagonal-down-0004 { width: 116px; height: 147px; background-position: 0px -477px;}
+.sprite-aim-diagonal-down-0005 { width: 116px; height: 142px; background-position: 0px -624px;}

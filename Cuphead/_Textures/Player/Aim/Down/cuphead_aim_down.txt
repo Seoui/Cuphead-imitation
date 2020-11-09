@@ -1,0 +1,8 @@
+.sprite { background-image: url('cuphead_aim_down.png');}
+
+
+.sprite-cuphead-aim-down-0001 { width: 99px; height: 168px; background-position: 0px 0px;}
+.sprite-cuphead-aim-down-0002 { width: 98px; height: 165px; background-position: 0px -168px;}
+.sprite-cuphead-aim-down-0003 { width: 103px; height: 162px; background-position: 0px -333px;}
+.sprite-cuphead-aim-down-0004 { width: 99px; height: 159px; background-position: 0px -495px;}
+.sprite-cuphead-aim-down-0005 { width: 100px; height: 152px; background-position: 0px -654px;}

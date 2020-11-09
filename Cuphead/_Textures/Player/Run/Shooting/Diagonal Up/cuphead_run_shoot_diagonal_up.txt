@@ -1,0 +1,21 @@
+.sprite { background-image: url('cuphead_run_shoot_diagonal_up.png');}
+
+
+.sprite-cuphead-run-shoot-diag-up-turnaround-0001 { width: 142px; height: 171px; background-position: 0px 0px;}
+.sprite-cuphead-run-shoot-diag-up-turnaround-0002 { width: 143px; height: 168px; background-position: 0px -171px;}
+.sprite-cuphead-run-shoot-diagonal-up-0001 { width: 142px; height: 145px; background-position: 0px -339 px;}
+.sprite-cuphead-run-shoot-diagonal-up-0002 { width: 137px; height: 140px; background-position: 0px -484px;}
+.sprite-cuphead-run-shoot-diagonal-up-0003 { width: 133px; height: 149px; background-position: 0px -624px;}
+.sprite-cuphead-run-shoot-diagonal-up-0004 { width: 133px; height: 153px; background-position: 0px -773px;}
+.sprite-cuphead-run-shoot-diagonal-up-0005 { width: 126px; height: 157px; background-position: 0px -926px;}
+.sprite-cuphead-run-shoot-diagonal-up-0006 { width: 129px; height: 150px; background-position: 0px -1083px;}
+.sprite-cuphead-run-shoot-diagonal-up-0007 { width: 133px; height: 135px; background-position: 0px -1233px;}
+.sprite-cuphead-run-shoot-diagonal-up-0008 { width: 139px; height: 137px; background-position: 0px -1368px;}
+.sprite-cuphead-run-shoot-diagonal-up-0009 { width: 137px; height: 141px; background-position: 0px -1505px;}
+.sprite-cuphead-run-shoot-diagonal-up-0010 { width: 134px; height: 143px; background-position: 0px -1646px;}
+.sprite-cuphead-run-shoot-diagonal-up-0011 { width: 134px; height: 149px; background-position: 0px -1789px;}
+.sprite-cuphead-run-shoot-diagonal-up-0012 { width: 132px; height: 150px; background-position: 0px -1938px;}
+.sprite-cuphead-run-shoot-diagonal-up-0013 { width: 130px; height: 155px; background-position: 0px -2088px;}
+.sprite-cuphead-run-shoot-diagonal-up-0014 { width: 127px; height: 137px; background-position: 0px -2243px;}
+.sprite-cuphead-run-shoot-diagonal-up-0015 { width: 134px; height: 134px; background-position: 0px -2380px;}
+.sprite-cuphead-run-shoot-diagonal-up-0016 { width: 143px; height: 140px; background-position: 0px -2514px;}

@@ -1,0 +1,9 @@
+.sprite { background-image: url('cuphead_shoot_straight.png');}
+
+
+.sprite-cuphead-shoot-straight-0001 { width: 126px; height: 150px; background-position: 0px 0px;}
+.sprite-cuphead-shoot-straight-0002 { width: 127px; height: 157px; background-position: 0px -150px;}
+.sprite-cuphead-shoot-straight-0003 { width: 118px; height: 153px; background-position: 0px -307px;}
+.sprite-cuphead-shoot-straight-boil-0001 { width: 137px; height: 165px; background-position: 0px -460px;}
+.sprite-cuphead-shoot-straight-boil-0002 { width: 136px; height: 165px; background-position: 0px -625px;}
+.sprite-cuphead-shoot-straight-boil-0003 { width: 137px; height: 165px; background-position: 0px -790px;}

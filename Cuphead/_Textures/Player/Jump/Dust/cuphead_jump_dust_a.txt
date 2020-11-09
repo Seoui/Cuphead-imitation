@@ -1,0 +1,19 @@
+[dust_a]
+
+.sprite { background-image: url('cuphead_jump_dust_a.png');}
+
+
+.sprite-cuphead-jump-dust-a-0001 { width: 110px; height: 38px; background-position: 0px 0px;}
+.sprite-cuphead-jump-dust-a-0002 { width: 165px; height: 65px; background-position: 0px -38px;}
+.sprite-cuphead-jump-dust-a-0003 { width: 178px; height: 84px; background-position: 0px -103px;}
+.sprite-cuphead-jump-dust-a-0004 { width: 195px; height: 113px; background-position: 0px -187px;}
+.sprite-cuphead-jump-dust-a-0005 { width: 218px; height: 113px; background-position: 0px -300px;}
+.sprite-cuphead-jump-dust-a-0006 { width: 234px; height: 126px; background-position: 0px -413px;}
+.sprite-cuphead-jump-dust-a-0007 { width: 238px; height: 131px; background-position: 0px -539px;}
+.sprite-cuphead-jump-dust-a-0008 { width: 245px; height: 129px; background-position: 0px -670px;}
+.sprite-cuphead-jump-dust-a-0009 { width: 249px; height: 152px; background-position: 0px -799px;}
+.sprite-cuphead-jump-dust-a-0010 { width: 255px; height: 145px; background-position: 0px -951px;}
+.sprite-cuphead-jump-dust-a-0011 { width: 265px; height: 134px; background-position: 0px -1096px;}
+.sprite-cuphead-jump-dust-a-0012 { width: 274px; height: 133px; background-position: 0px -1230px;}
+.sprite-cuphead-jump-dust-a-0013 { width: 282px; height: 127px; background-position: 0px -1363px;}
+.sprite-cuphead-jump-dust-a-0014 { width: 285px; height: 133px; background-position: 0px -1490px;}

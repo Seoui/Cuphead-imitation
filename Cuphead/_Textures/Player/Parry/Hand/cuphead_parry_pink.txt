@@ -1,0 +1,11 @@
+.sprite { background-image: url('cuphead_parry_pink.png');}
+
+
+.sprite-cuphead-parry-pink-0001 { width: 108px; height: 115px; background-position: 0px 0px;}
+.sprite-cuphead-parry-pink-0002 { width: 95px; height: 130px; background-position: 0px -115px;}
+.sprite-cuphead-parry-pink-0003 { width: 104px; height: 124px; background-position: 0px -245px;}
+.sprite-cuphead-parry-pink-0004 { width: 113px; height: 113px; background-position: 0px -369px;}
+.sprite-cuphead-parry-pink-0005 { width: 110px; height: 112px; background-position: 0px -482px;}
+.sprite-cuphead-parry-pink-0006 { width: 101px; height: 113px; background-position: 0px -594px;}
+.sprite-cuphead-parry-pink-0007 { width: 97px; height: 129px; background-position: 0px -707px;}
+.sprite-cuphead-parry-pink-0008 { width: 117px; height: 101px; background-position: 0px -836px;}

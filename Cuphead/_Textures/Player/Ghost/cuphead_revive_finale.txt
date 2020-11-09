@@ -1,0 +1,9 @@
+.sprite { background-image: url('cuphead_revive_finale.png');}
+
+
+.sprite-cuphead-revive-finale-0001 { width: 353px; height: 482px; background-position: 0px 0px;}
+.sprite-cuphead-revive-finale-0002 { width: 265px; height: 380px; background-position: 0px -482px;}
+.sprite-cuphead-revive-finale-0003 { width: 339px; height: 355px; background-position: 0px -862px;}
+.sprite-cuphead-revive-finale-0004 { width: 160px; height: 334px; background-position: 0px -1217px;}
+.sprite-cuphead-revive-finale-0005 { width: 138px; height: 200px; background-position: 0px -1551px;}
+.sprite-cuphead-revive-finale-0006 { width: 98px; height: 164px; background-position: 0px -1751px;}

@@ -1,0 +1,19 @@
+.sprite { background-image: url('cuphead_death_body.png');}
+
+
+.sprite-cuphead-death-body-0001 { width: 152px; height: 90px; background-position: 0px 0px;}
+.sprite-cuphead-death-body-0002 { width: 172px; height: 106px; background-position: 0px -90px;}
+.sprite-cuphead-death-body-0003 { width: 165px; height: 99px; background-position: 0px -196px;}
+.sprite-cuphead-death-body-0004 { width: 157px; height: 93px; background-position: 0px -295px;}
+.sprite-cuphead-death-body-0005 { width: 158px; height: 92px; background-position: 0px -388px;}
+.sprite-cuphead-death-body-0006 { width: 151px; height: 88px; background-position: 0px -480px;}
+.sprite-cuphead-death-body-0007 { width: 148px; height: 89px; background-position: 0px -568px;}
+.sprite-cuphead-death-body-0008 { width: 149px; height: 86px; background-position: 0px -657px;}
+.sprite-cuphead-death-body-0009 { width: 147px; height: 84px; background-position: 0px -743px;}
+.sprite-cuphead-death-body-0010 { width: 146px; height: 85px; background-position: 0px -827px;}
+.sprite-cuphead-death-body-0011 { width: 146px; height: 87px; background-position: 0px -912px;}
+.sprite-cuphead-death-body-0012 { width: 140px; height: 86px; background-position: 0px -999px;}
+.sprite-cuphead-death-body-0013 { width: 137px; height: 81px; background-position: 0px -1085px;}
+.sprite-cuphead-death-body-0014 { width: 138px; height: 81px; background-position: 0px -1166px;}
+.sprite-cuphead-death-body-0015 { width: 136px; height: 80px; background-position: 0px -1247px;}
+.sprite-cuphead-death-body-0016 { width: 126px; height: 80px; background-position: 0px -1327px;}

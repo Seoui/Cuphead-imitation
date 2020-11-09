@@ -1,0 +1,8 @@
+.sprite { background-image: url('cuphead_aim_straight.png');}
+
+
+.sprite-cuphead-aim-straight-0001 { width: 129px; height: 152px; background-position: 0px 0px;}
+.sprite-cuphead-aim-straight-0002 { width: 133px; height: 161px; background-position: 0px -152px;}
+.sprite-cuphead-aim-straight-0003 { width: 134px; height: 156px; background-position: 0px -313px;}
+.sprite-cuphead-aim-straight-0004 { width: 130px; height: 141px; background-position: 0px -469px;}
+.sprite-cuphead-aim-straight-0005 { width: 131px; height: 136px; background-position: 0px -610px;}

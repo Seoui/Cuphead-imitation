@@ -1,0 +1,26 @@
+.sprite { background-image: url('cuphead_super_beam.png');}
+
+
+.sprite-cuphead-super-beam-0001 { width: 106px; height: 148px; background-position: 0px 0px;}
+.sprite-cuphead-super-beam-0002 { width: 113px; height: 139px; background-position: 0px -148px;}
+.sprite-cuphead-super-beam-0003 { width: 115px; height: 149px; background-position: 0px -287px;}
+.sprite-cuphead-super-beam-0004 { width: 117px; height: 144px; background-position: 0px -436px;}
+.sprite-cuphead-super-beam-0005 { width: 121px; height: 150px; background-position: 0px -580px;}
+.sprite-cuphead-super-beam-0006 { width: 125px; height: 154px; background-position: 0px -730px;}
+.sprite-cuphead-super-beam-0007 { width: 143px; height: 168px; background-position: 0px -884px;}
+.sprite-cuphead-super-beam-0008 { width: 148px; height: 169px; background-position: 0px -1052px;}
+.sprite-cuphead-super-beam-0009 { width: 136px; height: 175px; background-position: 0px -1221px;}
+.sprite-cuphead-super-beam-0010 { width: 133px; height: 177px; background-position: 0px -1396px;}
+.sprite-cuphead-super-beam-0011 { width: 113px; height: 156px; background-position: 0px -1573px;}
+.sprite-cuphead-super-beam-0012 { width: 117px; height: 144px; background-position: 0px -1729px;}
+.sprite-cuphead-super-beam-0013 { width: 113px; height: 120px; background-position: 0px -1873px;}
+.sprite-cuphead-super-beam-0014 { width: 132px; height: 120px; background-position: 0px -1993px;}
+.sprite-cuphead-super-beam-0015 { width: 145px; height: 128px; background-position: 0px -2113px;}
+.sprite-cuphead-super-beam-0016 { width: 164px; height: 131px; background-position: 0px -2241px;}
+.sprite-cuphead-super-beam-0017 { width: 196px; height: 128px; background-position: 0px -2372px;}
+.sprite-cuphead-super-beam-0018 { width: 200px; height: 140px; background-position: 0px -2500px;}
+.sprite-cuphead-super-beam-0019 { width: 208px; height: 157px; background-position: 0px -2640px;}
+.sprite-cuphead-super-beam-0020 { width: 238px; height: 145px; background-position: 0px -2797px;}
+.sprite-cuphead-super-beam-0021 { width: 197px; height: 137px; background-position: 0px -2942px;}
+.sprite-cuphead-super-beam-0022 { width: 202px; height: 140px; background-position: 0px -3079px;}
+.sprite-cuphead-super-beam-0023 { width: 201px; height: 132px; background-position: 0px -3219px;}

@@ -1,0 +1,9 @@
+.sprite { background-image: url('cuphead_ex_diagonal_down_air.png');}
+
+
+.sprite-cuphead-ex-diagonal-down-air-0001 { width: 108px; height: 125px; background-position: 0px 0px;}
+.sprite-cuphead-ex-diagonal-down-air-0002 { width: 112px; height: 134px; background-position: 0px -125px;}
+.sprite-cuphead-ex-diagonal-down-air-0003 { width: 118px; height: 139px; background-position: 0px -259px;}
+.sprite-cuphead-ex-diagonal-down-air-0004 { width: 122px; height: 145px; background-position: 0px -398px;}
+.sprite-cuphead-ex-diagonal-down-air-0005 { width: 126px; height: 160px; background-position: 0px -543px;}
+.sprite-cuphead-ex-diagonal-down-air-0006 { width: 128px; height: 146px; background-position: 0px -703px;}

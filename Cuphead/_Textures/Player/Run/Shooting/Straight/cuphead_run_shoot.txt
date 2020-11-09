@@ -1,0 +1,21 @@
+.sprite { background-image: url('cuphead_run_shoot.png');}
+
+
+.sprite-cuphead-run-shoot-0001 { width: 138px; height: 155px; background-position: 0px 0px;}
+.sprite-cuphead-run-shoot-0002 { width: 128px; height: 146px; background-position: 0px -155px;}
+.sprite-cuphead-run-shoot-0003 { width: 119px; height: 148px; background-position: 0px -301px;}
+.sprite-cuphead-run-shoot-0004 { width: 119px; height: 155px; background-position: 0px -449px;}
+.sprite-cuphead-run-shoot-0005 { width: 121px; height: 162px; background-position: 0px -604px;}
+.sprite-cuphead-run-shoot-0006 { width: 124px; height: 157px; background-position: 0px -766px;}
+.sprite-cuphead-run-shoot-0007 { width: 133px; height: 145px; background-position: 0px -923px;}
+.sprite-cuphead-run-shoot-0008 { width: 140px; height: 149px; background-position: 0px -1068px;}
+.sprite-cuphead-run-shoot-0009 { width: 134px; height: 154px; background-position: 0px -1217px;}
+.sprite-cuphead-run-shoot-0010 { width: 128px; height: 150px; background-position: 0px -1371px;}
+.sprite-cuphead-run-shoot-0011 { width: 123px; height: 150px; background-position: 0px -1521px;}
+.sprite-cuphead-run-shoot-0012 { width: 122px; height: 155px; background-position: 0px -1671px;}
+.sprite-cuphead-run-shoot-0013 { width: 126px; height: 161px; background-position: 0px -1826px;}
+.sprite-cuphead-run-shoot-0014 { width: 126px; height: 143px; background-position: 0px -1987px;}
+.sprite-cuphead-run-shoot-0015 { width: 140px; height: 149px; background-position: 0px -2130px;}
+.sprite-cuphead-run-shoot-0016 { width: 144px; height: 150px; background-position: 0px -2279px;}
+.sprite-cuphead-run-shoot-turnaround-0001 { width: 137px; height: 164px; background-position: 0px -2429px;}
+.sprite-cuphead-run-shoot-turnaround-0002 { width: 135px; height: 175px; background-position: 0px -2593px;}

@@ -1,0 +1,13 @@
+[jump]
+
+.sprite { background-image: url('cuphead_jump.png');}
+
+
+.sprite-cuphead-jump-0001 { width: 77px; height: 79px; background-position: 0px 0px;}
+.sprite-cuphead-jump-0002 { width: 77px; height: 107px; background-position: 0px -79px;}
+.sprite-cuphead-jump-0003 { width: 82px; height: 109px; background-position: 0px -186px;}
+.sprite-cuphead-jump-0004 { width: 80px; height: 103px; background-position: 0px -295px;}
+.sprite-cuphead-jump-0005 { width: 81px; height: 77px; background-position: 0px -398px;}
+.sprite-cuphead-jump-0006 { width: 76px; height: 98px; background-position: 0px -475px;}
+.sprite-cuphead-jump-0007 { width: 88px; height: 107px; background-position: 0px -573px;}
+.sprite-cuphead-jump-0008 { width: 86px; height: 104px; background-position: 0px -680px;}

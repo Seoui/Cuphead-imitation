@@ -1,0 +1,23 @@
+.sprite { background-image: url('cuphead_super_beam.png');}
+
+
+.sprite-cuphead-super-beam-0001 { width: 128px; height: 120px; background-position: 0px 0px;}
+.sprite-cuphead-super-beam-0002 { width: 217px; height: 164px; background-position: 0px -120px;}
+.sprite-cuphead-super-beam-0003 { width: 284px; height: 180px; background-position: 0px -284px;}
+.sprite-cuphead-super-beam-0004 { width: 421px; height: 200px; background-position: 0px -464px;}
+.sprite-cuphead-super-beam-0005 { width: 561px; height: 229px; background-position: 0px -664px;}
+.sprite-cuphead-super-beam-0006 { width: 860px; height: 263px; background-position: 0px -893px;}
+.sprite-cuphead-super-beam-0007 { width: 989px; height: 269px; background-position: 0px -1156px;}
+.sprite-cuphead-super-beam-0008 { width: 1000px; height: 269px; background-position: 0px -1425px;}
+.sprite-cuphead-super-beam-0009 { width: 1011px; height: 271px; background-position: 0px -1694px;}
+.sprite-cuphead-super-beam-0010 { width: 1014px; height: 273px; background-position: 0px -1965px;}
+.sprite-cuphead-super-beam-0011 { width: 1018px; height: 276px; background-position: 0px -2238px;}
+.sprite-cuphead-super-beam-0012 { width: 992px; height: 272px; background-position: 0px -2514px;}
+.sprite-cuphead-super-beam-0013 { width: 989px; height: 268px; background-position: 0px -2786px;}
+.sprite-cuphead-super-beam-0014 { width: 980px; height: 270px; background-position: 0px -3054px;}
+.sprite-cuphead-super-beam-0015 { width: 998px; height: 276px; background-position: 0px -3324px;}
+.sprite-cuphead-super-beam-0016 { width: 1016px; height: 286px; background-position: 0px -3600px;}
+.sprite-cuphead-super-beam-0017 { width: 947px; height: 303px; background-position: 0px -3886px;}
+.sprite-cuphead-super-beam-0018 { width: 818px; height: 263px; background-position: 0px -4189px;}
+.sprite-cuphead-super-beam-0019 { width: 751px; height: 258px; background-position: 0px -4452px;}
+.sprite-cuphead-super-beam-0020 { width: 592px; height: 273px; background-position: 0px -4710px;}

@@ -1,0 +1,9 @@
+.sprite { background-image: url('cuphead_shoot_down.png');}
+
+
+.sprite-cuphead-shoot-down-0001 { width: 101px; height: 169px; background-position: 0px 0px;}
+.sprite-cuphead-shoot-down-0002 { width: 96px; height: 155px; background-position: 0px -169px;}
+.sprite-cuphead-shoot-down-0003 { width: 98px; height: 159px; background-position: 0px -324px;}
+.sprite-cuphead-shoot-down-boil-0001 { width: 112px; height: 181px; background-position: 0px -483px;}
+.sprite-cuphead-shoot-down-boil-0002 { width: 110px; height: 180px; background-position: 0px -664px;}
+.sprite-cuphead-shoot-down-boil-0003 { width: 110px; height: 181px; background-position: 0px -844px;}

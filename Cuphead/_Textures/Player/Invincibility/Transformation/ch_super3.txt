@@ -1,0 +1,46 @@
+.sprite { background-image: url('cuphead_super3.png');}
+
+
+.sprite-ch-superIII-0001 { width: 142px; height: 150px; background-position: 0px 0px;}
+.sprite-ch-superIII-0002 { width: 139px; height: 140px; background-position: 0px -150px;}
+.sprite-ch-superIII-0003 { width: 145px; height: 150px; background-position: 0px -290px;}
+.sprite-ch-superIII-0004 { width: 143px; height: 176px; background-position: 0px -440px;}
+.sprite-ch-superIII-0005 { width: 144px; height: 212px; background-position: 0px -616px;}
+.sprite-ch-superIII-0006 { width: 170px; height: 238px; background-position: 0px -828px;}
+.sprite-ch-superIII-0007 { width: 186px; height: 236px; background-position: 0px -1066px;}
+.sprite-ch-superIII-0008 { width: 228px; height: 275px; background-position: 0px -1302px;}
+.sprite-ch-superIII-0009(QUI) { width: 299px; height: 319px; background-position: 0px -1577px;}
+.sprite-ch-superIII-0010 { width: 338px; height: 312px; background-position: 0px -1896px;}
+.sprite-ch-superIII-0011 { width: 368px; height: 320px; background-position: 0px -2208px;}
+.sprite-ch-superIII-0012-flash { width: 378px; height: 310px; background-position: 0px -2528px;}
+.sprite-ch-superIII-0013 { width: 373px; height: 319px; background-position: 0px -2838px;}
+.sprite-ch-superIII-0014-flash { width: 380px; height: 280px; background-position: 0px -3157px;}
+.sprite-ch-superIII-0015a { width: 369px; height: 304px; background-position: 0px -3437px;}
+.sprite-ch-superIII-0015b { width: 368px; height: 304px; background-position: 0px -3741px;}
+.sprite-ch-superIII-0015c { width: 365px; height: 268px; background-position: 0px -4045px;}
+.sprite-ch-superIII-0015d { width: 365px; height: 264px; background-position: 0px -4313px;}
+.sprite-ch-superIII-0015e { width: 365px; height: 264px; background-position: 0px -4577px;}
+.sprite-ch-superIII-0016 { width: 390px; height: 270px; background-position: 0px -4841px;}
+.sprite-ch-superIII-0017 { width: 404px; height: 287px; background-position: 0px -5111px;}
+.sprite-ch-superIII-0018 { width: 418px; height: 284px; background-position: 0px -5398px;}
+.sprite-ch-superIII-0019 { width: 424px; height: 284px; background-position: 0px -5682px;}
+.sprite-ch-superIII-0020 { width: 417px; height: 280px; background-position: 0px -5966px;}
+.sprite-ch-superIII-0021 { width: 414px; height: 280px; background-position: 0px -6246px;}
+.sprite-ch-superIII-0022 { width: 410px; height: 277px; background-position: 0px -6526px;}
+.sprite-ch-superIII-0023 { width: 409px; height: 276px; background-position: 0px -6803px;}
+.sprite-ch-superIII-0024 { width: 395px; height: 277px; background-position: 0px -7079px;}
+.sprite-ch-superIII-0025 { width: 396px; height: 277px; background-position: 0px -7356px;}
+.sprite-ch-superIII-0026 { width: 396px; height: 279px; background-position: 0px -7633px;}
+.sprite-ch-superIII-0027 { width: 390px; height: 270px; background-position: 0px -7912px;}
+.sprite-ch-superIII-0028 { width: 366px; height: 279px; background-position: 0px -8182px;}
+.sprite-ch-superIII-0029 { width: 347px; height: 282px; background-position: 0px -8461px;}
+.sprite-ch-superIII-0030 { width: 262px; height: 282px; background-position: 0px -8743px;}
+.sprite-ch-superIII-0031 { width: 216px; height: 262px; background-position: 0px -9025px;}
+.sprite-ch-superIII-0032 { width: 216px; height: 249px; background-position: 0px -9287px;}
+.sprite-ch-superIII-0033 { width: 216px; height: 209px; background-position: 0px -9536px;}
+.sprite-ch-superIII-0034 { width: 197px; height: 200px; background-position: 0px -9745px;}
+.sprite-ch-superIII-0035 { width: 177px; height: 194px; background-position: 0px -9945px;}
+.sprite-ch-superIII-0036 { width: 166px; height: 178px; background-position: 0px -10139px;}
+.sprite-ch-superIII-0037 { width: 157px; height: 160px; background-position: 0px -10317px;}
+.sprite-ch-superIII-0038 { width: 148px; height: 149px; background-position: 0px -10477px;}
+.sprite-ch-superIII-0039 { width: 109px; height: 75px; background-position: 0px -10626px;}

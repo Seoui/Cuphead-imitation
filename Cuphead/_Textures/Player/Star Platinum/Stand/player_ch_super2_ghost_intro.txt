@@ -1,0 +1,31 @@
+.sprite { background-image: url('player_ch_super2_ghost_intro.png');}
+
+
+.sprite-player-ch-superII-ghost-intro-0001 { width: 135px; height: 120px; background-position: 0px 0px;}
+.sprite-player-ch-superII-ghost-intro-0002 { width: 141px; height: 124px; background-position: 0px -120px;}
+.sprite-player-ch-superII-ghost-intro-0003 { width: 145px; height: 129px; background-position: 0px -244px;}
+.sprite-player-ch-superII-ghost-intro-0004 { width: 144px; height: 162px; background-position: 0px -373px;}
+.sprite-player-ch-superII-ghost-intro-0005 { width: 147px; height: 166px; background-position: 0px -535px;}
+.sprite-player-ch-superII-ghost-intro-0006 { width: 156px; height: 172px; background-position: 0px -701px;}
+.sprite-player-ch-superII-ghost-intro-0007 { width: 222px; height: 177px; background-position: 0px -873px;}
+.sprite-player-ch-superII-ghost-intro-0008 { width: 225px; height: 198px; background-position: 0px -1050px;}
+.sprite-player-ch-superII-ghost-intro-0009 { width: 276px; height: 218px; background-position: 0px -1248px;}
+.sprite-player-ch-superII-ghost-intro-0010 { width: 276px; height: 235px; background-position: 0px -1466px;}
+.sprite-player-ch-superII-ghost-intro-0011 { width: 326px; height: 254px; background-position: 0px -1701px;}
+.sprite-player-ch-superII-ghost-intro-0012 { width: 370px; height: 287px; background-position: 0px -1955px;}
+.sprite-player-ch-superII-ghost-intro-0013 { width: 378px; height: 300px; background-position: 0px -2242px;}
+.sprite-player-ch-superII-ghost-intro-0014 { width: 380px; height: 307px; background-position: 0px -2542px;}
+.sprite-player-ch-superII-ghost-intro-0015 { width: 381px; height: 313px; background-position: 0px -2849px;}
+.sprite-player-ch-superII-ghost-intro-0016 { width: 384px; height: 331px; background-position: 0px -3162px;}
+.sprite-player-ch-superII-ghost-intro-0017 { width: 386px; height: 349px; background-position: 0px -3493px;}
+.sprite-player-ch-superII-ghost-intro-0018 { width: 382px; height: 360px; background-position: 0px -3842px;}
+.sprite-player-ch-superII-ghost-intro-0019 { width: 384px; height: 374px; background-position: 0px -4202px;}
+.sprite-player-ch-superII-ghost-intro-0020 { width: 382px; height: 352px; background-position: 0px -4576px;}
+.sprite-player-ch-superII-ghost-intro-0021 { width: 382px; height: 335px; background-position: 0px -4928px;}
+.sprite-player-ch-superII-ghost-intro-0022 { width: 379px; height: 345px; background-position: 0px -5263px;}
+.sprite-player-ch-superII-ghost-intro-0023 { width: 377px; height: 351px; background-position: 0px -5608px;}
+.sprite-player-ch-superII-ghost-intro-0024 { width: 377px; height: 366px; background-position: 0px -5959px;}
+.sprite-player-ch-superII-ghost-intro-0025 { width: 375px; height: 372px; background-position: 0px -6325px;}
+.sprite-player-ch-superII-ghost-intro-0026 { width: 376px; height: 365px; background-position: 0px -6697px;}
+.sprite-player-ch-superII-ghost-intro-0027 { width: 446px; height: 352px; background-position: 0px -7062px;}
+.sprite-player-ch-superII-ghost-intro-0028 { width: 472px; height: 345px; background-position: 0px -7414px;}

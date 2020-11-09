@@ -1,0 +1,14 @@
+.sprite { background-image: url('player_ch_scared.png');}
+
+
+.sprite-player-ch-scared-0001 { width: 147px; height: 170px; background-position: 0px 0px;}
+.sprite-player-ch-scared-0002 { width: 149px; height: 162px; background-position: 0px -170px;}
+.sprite-player-ch-scared-0003 { width: 134px; height: 232px; background-position: 0px -332px;}
+.sprite-player-ch-scared-0004 { width: 228px; height: 270px; background-position: 0px -564px;}
+.sprite-player-ch-scared-0005 { width: 241px; height: 260px; background-position: 0px -834px;}
+.sprite-player-ch-scared-0006 { width: 257px; height: 261px; background-position: 0px -1094px;}
+.sprite-player-ch-scared-0007 { width: 244px; height: 261px; background-position: 0px -1355px;}
+.sprite-player-ch-scared-0008 { width: 246px; height: 261px; background-position: 0px -1616px;}
+.sprite-player-ch-scared-0009 { width: 201px; height: 253px; background-position: 0px -1877px;}
+.sprite-player-ch-scared-0010 { width: 141px; height: 160px; background-position: 0px -2130px;}
+.sprite-player-ch-scared-0011 { width: 130px; height: 170px; background-position: 0px -2290px;}

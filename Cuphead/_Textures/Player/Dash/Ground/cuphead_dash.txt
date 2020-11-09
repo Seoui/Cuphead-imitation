@@ -1,0 +1,11 @@
+.sprite { background-image: url('cuphead_dash.png');}
+
+
+.sprite-0 { width: 102px; height: 132px; background-position: 0px 0px;}
+.sprite-1 { width: 156px; height: 116px; background-position: 0px -132px;}
+.sprite-cuphead-dash-0001 { width: 254px; height: 133px; background-position: 0px -248px;}
+.sprite-cuphead-dash-0002 { width: 273px; height: 133px; background-position: 0px -381px;}
+.sprite-cuphead-dash-0003 { width: 290px; height: 135px; background-position: 0px -514px;}
+.sprite-cuphead-dash-0004 { width: 312px; height: 143px; background-position: 0px -649px;}
+.sprite-cuphead-dash-0005 { width: 326px; height: 155px; background-position: 0px -792px;}
+.sprite-cuphead-dash-0006 { width: 227px; height: 163px; background-position: 0px -947px;}

@@ -1,0 +1,14 @@
+.sprite { background-image: url('cuphead_super_beam_fx_a.png');}
+
+
+.sprite-cuphead-super-beam-fx-a-0001 { width: 181px; height: 172px; background-position: 0px 0px;}
+.sprite-cuphead-super-beam-fx-a-0002 { width: 287px; height: 251px; background-position: 0px -172px;}
+.sprite-cuphead-super-beam-fx-a-0003 { width: 310px; height: 266px; background-position: 0px -423px;}
+.sprite-cuphead-super-beam-fx-a-0004 { width: 343px; height: 286px; background-position: 0px -689px;}
+.sprite-cuphead-super-beam-fx-a-0005 { width: 354px; height: 294px; background-position: 0px -975px;}
+.sprite-cuphead-super-beam-fx-a-0006 { width: 363px; height: 293px; background-position: 0px -1269px;}
+.sprite-cuphead-super-beam-fx-a-0007 { width: 395px; height: 382px; background-position: 0px -1562px;}
+.sprite-cuphead-super-beam-fx-a-0008 { width: 385px; height: 389px; background-position: 0px -1944px;}
+.sprite-cuphead-super-beam-fx-a-0009 { width: 398px; height: 396px; background-position: 0px -2333px;}
+.sprite-cuphead-super-beam-fx-a-0010 { width: 405px; height: 409px; background-position: 0px -2729px;}
+.sprite-cuphead-super-beam-fx-a-0011 { width: 406px; height: 414px; background-position: 0px -3138px;}

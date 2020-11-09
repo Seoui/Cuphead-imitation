@@ -1,0 +1,25 @@
+.sprite { background-image: url('cuphead_revive.png');}
+
+
+.sprite-cuphead-revive-0001 { width: 110px; height: 207px; background-position: 0px 0px;}
+.sprite-cuphead-revive-0002 { width: 110px; height: 207px; background-position: 0px -207px;}
+.sprite-cuphead-revive-0003 { width: 109px; height: 205px; background-position: 0px -414px;}
+.sprite-cuphead-revive-0004 { width: 110px; height: 204px; background-position: 0px -619px;}
+.sprite-cuphead-revive-0005 { width: 112px; height: 205px; background-position: 0px -823px;}
+.sprite-cuphead-revive-0006 { width: 114px; height: 202px; background-position: 0px -1028px;}
+.sprite-cuphead-revive-0007 { width: 114px; height: 208px; background-position: 0px -1230px;}
+.sprite-cuphead-revive-0008 { width: 114px; height: 212px; background-position: 0px -1438px;}
+.sprite-cuphead-revive-0009 { width: 107px; height: 215px; background-position: 0px -1650px;}
+.sprite-cuphead-revive-0010 { width: 106px; height: 220px; background-position: 0px -1865px;}
+.sprite-cuphead-revive-0011 { width: 105px; height: 223px; background-position: 0px -2085px;}
+.sprite-cuphead-revive-0012 { width: 107px; height: 224px; background-position: 0px -2308px;}
+.sprite-cuphead-revive-0013 { width: 104px; height: 222px; background-position: 0px -2532px;}
+.sprite-cuphead-revive-0014 { width: 109px; height: 218px; background-position: 0px -2754px;}
+.sprite-cuphead-revive-0015 { width: 108px; height: 218px; background-position: 0px -2972px;}
+.sprite-cuphead-revive-0016 { width: 105px; height: 210px; background-position: 0px -3190px;}
+.sprite-cuphead-revive-0017 { width: 102px; height: 187px; background-position: 0px -3400px;}
+.sprite-cuphead-revive-0018 { width: 104px; height: 182px; background-position: 0px -3587px;}
+.sprite-cuphead-revive-0019 { width: 105px; height: 181px; background-position: 0px -3769px;}
+.sprite-cuphead-revive-0020 { width: 105px; height: 179px; background-position: 0px -3950px;}
+.sprite-cuphead-revive-0021 { width: 107px; height: 177px; background-position: 0px -4129px;}
+.sprite-cuphead-revive-0022 { width: 105px; height: 176px; background-position: 0px -4306px;}
