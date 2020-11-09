@@ -7,7 +7,7 @@ Cuphead의 Cagney Carnation 씬을 모작하였습니다
 
 
 
-게임실행을 위해 몇가지 작업이 필요합니다  
+게임실행을 위해 몇 가지 작업이 필요합니다  
 
 1. DirectX SDK 설치
 https://www.microsoft.com/en-us/download/details.aspx?id=6812  
