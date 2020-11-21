@@ -17,14 +17,14 @@ Visual Studio 2017에서
 
 2. 프로젝트의 속성 -> VC++ 디렉터리 -> 포함 디렉터리에
 
-    2-1. (설치한 DirectX SDK 디렉터리 주소)/(Include 디렉터리 주소)    =>  추가
+    2-1. (설치한 DirectX SDK 디렉터리 주소)/(Include 디렉터리 주소)      =>  추가
 
-    2-2. (Cuphead 프로젝트 주소)/(_Libraries 디렉터리 주소)      => 추가
+    2-2. (Cuphead 프로젝트 주소)/(_Libraries 디렉터리 주소)        => 추가
 
 
 3. 프로젝트의 속성 -> VC++ 디렉터리 -> 포함 라이브러리에  
 
-    3-1. (설치한 DirectX SDK 디렉터리 주소)/Lib/(x86 디렉터리 주소)    => 추가 
+    3-1. (설치한 DirectX SDK 디렉터리 주소)/Lib/(x86 디렉터리 주소)      => 추가 
 
-    3-2. (Cuphead 프로젝트 주소)/(_Libraries 디렉터리 주소)     =>추가
+    3-2. (Cuphead 프로젝트 주소)/(_Libraries 디렉터리 주소)       =>추가
 
